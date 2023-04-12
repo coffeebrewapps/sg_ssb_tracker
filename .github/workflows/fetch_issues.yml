@@ -15,7 +15,7 @@ jobs:
       - name: Fetch Issuance Data
         run: |
           echo "Updating issuance data to ${GITHUB_REPOSITORY} on branch ${REMOTE_BRANCH}"
-          curl ${{ secrets.SSB_ISSUES_URL }} >> data/issues.json
+          curl "${{ secrets.SSB_ISSUES_URL }}?rows=200&sort=ann_date%20asc" > data/issues.json
           git add data/issues.json && \
             git -c user.name="${GITHUB_ACTOR}" -c user.email="${GITHUB_ACTOR}@users.noreply.github.com" \
               commit --quiet --message "Update issues data" && \
