@@ -6,17 +6,46 @@ on:
 jobs:
   fetch:
     runs-on: "ubuntu-latest"
+    env:
+      BUNDLE_PATH: "vendor/bundle"
+      BUNDLE_JOBS: 4
+      BUNDLE_RETRY: 3
+
+    strategy:
+      fail-fast: true
+      matrix:
+        ruby-version:
+          - "3.2.1"
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
         with:
           repository: coffeebrewapps/sg_ssb_tracker
-          ref: data
-      - name: Fetch Issuance Data
+          ref: main
+      - name: "Set up Ruby ${{ matrix.ruby-version }}"
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ${{ matrix.ruby-version }}
+          bundler-cache: true
+      - name: Fetch issuance data
         run: |
-          echo "Updating issuance data to ${GITHUB_REPOSITORY} on branch ${REMOTE_BRANCH}"
-          curl "${{ secrets.SSB_ISSUES_URL }}?rows=200&sort=ann_date%20asc" > data/issues.json
-          git add data/issues.json && \
+          echo "Fetching issuance data..."
+          script/fetch_issues ${{ secrets.SSB_ISSUES_URL }}
+
+          REMOTE_BRANCH="${REMOTE_BRANCH:-data}"
+          REMOTE_REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+
+          git add data/ && \
+            git -c user.name="${GITHUB_ACTOR}" -c user.email="${GITHUB_ACTOR}@users.noreply.github.com" \
+              commit --quiet --message "Update issues data" &&
+
+          LATEST_VERSION=$(git rev-parse --verify HEAD)
+
+          echo "Updating data to ${GITHUB_REPOSITORY} on branch ${REMOTE_BRANCH}"
+          git fetch && \
+            git switch $REMOTE_BRANCH && \
+            git checkout $LATEST_VERSION data/* && \
             git -c user.name="${GITHUB_ACTOR}" -c user.email="${GITHUB_ACTOR}@users.noreply.github.com" \
               commit --quiet --message "Update issues data" && \
-            git push origin data
+            git push origin $REMOTE_BRANCH

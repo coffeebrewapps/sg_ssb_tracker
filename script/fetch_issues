@@ -1,0 +1,5 @@
+#! /bin/bash
+
+set -e
+
+bundle exec rake fetch_issues[$1]
