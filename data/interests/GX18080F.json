@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX18080F",
+        "year1_coupon": 1.78,
+        "year1_return": 1.78,
+        "year2_coupon": 2.16,
+        "year2_return": 1.97,
+        "year3_coupon": 2.37,
+        "year3_return": 2.1,
+        "year4_coupon": 2.54,
+        "year4_return": 2.21,
+        "year5_coupon": 2.67,
+        "year5_return": 2.29,
+        "year6_coupon": 2.76,
+        "year6_return": 2.37,
+        "year7_coupon": 2.81,
+        "year7_return": 2.43,
+        "year8_coupon": 2.86,
+        "year8_return": 2.48,
+        "year9_coupon": 2.95,
+        "year9_return": 2.52,
+        "year10_coupon": 3.11,
+        "year10_return": 2.57
+      }
+    ]
+  }
+}

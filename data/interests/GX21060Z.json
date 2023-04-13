@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX21060Z",
+        "year1_coupon": 0.38,
+        "year1_return": 0.38,
+        "year2_coupon": 0.54,
+        "year2_return": 0.46,
+        "year3_coupon": 0.78,
+        "year3_return": 0.57,
+        "year4_coupon": 1.06,
+        "year4_return": 0.69,
+        "year5_coupon": 1.37,
+        "year5_return": 0.82,
+        "year6_coupon": 1.72,
+        "year6_return": 0.97,
+        "year7_coupon": 2.11,
+        "year7_return": 1.12,
+        "year8_coupon": 2.5,
+        "year8_return": 1.29,
+        "year9_coupon": 2.88,
+        "year9_return": 1.45,
+        "year10_coupon": 3.22,
+        "year10_return": 1.61
+      }
+    ]
+  }
+}

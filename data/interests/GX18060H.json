@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX18060H",
+        "year1_coupon": 1.68,
+        "year1_return": 1.68,
+        "year2_coupon": 2.14,
+        "year2_return": 1.91,
+        "year3_coupon": 2.21,
+        "year3_return": 2.01,
+        "year4_coupon": 2.21,
+        "year4_return": 2.06,
+        "year5_coupon": 2.3,
+        "year5_return": 2.1,
+        "year6_coupon": 2.52,
+        "year6_return": 2.17,
+        "year7_coupon": 2.67,
+        "year7_return": 2.24,
+        "year8_coupon": 2.81,
+        "year8_return": 2.3,
+        "year9_coupon": 2.96,
+        "year9_return": 2.37,
+        "year10_coupon": 3.12,
+        "year10_return": 2.43
+      }
+    ]
+  }
+}

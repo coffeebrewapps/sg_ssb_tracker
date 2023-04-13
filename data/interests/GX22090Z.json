@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX22090Z",
+        "year1_coupon": 2.63,
+        "year1_return": 2.63,
+        "year2_coupon": 2.71,
+        "year2_return": 2.67,
+        "year3_coupon": 2.71,
+        "year3_return": 2.68,
+        "year4_coupon": 2.71,
+        "year4_return": 2.69,
+        "year5_coupon": 2.71,
+        "year5_return": 2.69,
+        "year6_coupon": 2.79,
+        "year6_return": 2.71,
+        "year7_coupon": 2.86,
+        "year7_return": 2.73,
+        "year8_coupon": 2.94,
+        "year8_return": 2.75,
+        "year9_coupon": 3.0,
+        "year9_return": 2.78,
+        "year10_coupon": 3.04,
+        "year10_return": 2.8
+      }
+    ]
+  }
+}

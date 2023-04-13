@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX15100F",
+        "year1_coupon": 0.96,
+        "year1_return": 0.96,
+        "year2_coupon": 1.09,
+        "year2_return": 1.02,
+        "year3_coupon": 1.93,
+        "year3_return": 1.32,
+        "year4_coupon": 2.93,
+        "year4_return": 1.71,
+        "year5_coupon": 3.25,
+        "year5_return": 2.01,
+        "year6_coupon": 3.25,
+        "year6_return": 2.2,
+        "year7_coupon": 3.25,
+        "year7_return": 2.34,
+        "year8_coupon": 3.25,
+        "year8_return": 2.44,
+        "year9_coupon": 3.3,
+        "year9_return": 2.53,
+        "year10_coupon": 3.7,
+        "year10_return": 2.63
+      }
+    ]
+  }
+}

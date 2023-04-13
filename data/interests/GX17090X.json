@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX17090X",
+        "year1_coupon": 1.15,
+        "year1_return": 1.15,
+        "year2_coupon": 1.32,
+        "year2_return": 1.23,
+        "year3_coupon": 1.52,
+        "year3_return": 1.33,
+        "year4_coupon": 1.73,
+        "year4_return": 1.43,
+        "year5_coupon": 1.97,
+        "year5_return": 1.53,
+        "year6_coupon": 2.23,
+        "year6_return": 1.64,
+        "year7_coupon": 2.52,
+        "year7_return": 1.76,
+        "year8_coupon": 2.8,
+        "year8_return": 1.88,
+        "year9_coupon": 3.08,
+        "year9_return": 2.0,
+        "year10_coupon": 3.35,
+        "year10_return": 2.12
+      }
+    ]
+  }
+}

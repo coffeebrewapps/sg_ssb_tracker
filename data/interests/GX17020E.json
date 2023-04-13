@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX17020E",
+        "year1_coupon": 1.05,
+        "year1_return": 1.05,
+        "year2_coupon": 1.52,
+        "year2_return": 1.28,
+        "year3_coupon": 1.93,
+        "year3_return": 1.5,
+        "year4_coupon": 2.32,
+        "year4_return": 1.7,
+        "year5_coupon": 2.6,
+        "year5_return": 1.87,
+        "year6_coupon": 2.76,
+        "year6_return": 2.01,
+        "year7_coupon": 2.9,
+        "year7_return": 2.13,
+        "year8_coupon": 3.05,
+        "year8_return": 2.23,
+        "year9_coupon": 3.25,
+        "year9_return": 2.33,
+        "year10_coupon": 3.57,
+        "year10_return": 2.44
+      }
+    ]
+  }
+}

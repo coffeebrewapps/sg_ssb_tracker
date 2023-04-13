@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX19070W",
+        "year1_coupon": 1.93,
+        "year1_return": 1.93,
+        "year2_coupon": 1.93,
+        "year2_return": 1.93,
+        "year3_coupon": 1.93,
+        "year3_return": 1.93,
+        "year4_coupon": 2.01,
+        "year4_return": 1.95,
+        "year5_coupon": 2.09,
+        "year5_return": 1.98,
+        "year6_coupon": 2.15,
+        "year6_return": 2.0,
+        "year7_coupon": 2.27,
+        "year7_return": 2.04,
+        "year8_coupon": 2.38,
+        "year8_return": 2.08,
+        "year9_coupon": 2.48,
+        "year9_return": 2.12,
+        "year10_coupon": 2.55,
+        "year10_return": 2.16
+      }
+    ]
+  }
+}

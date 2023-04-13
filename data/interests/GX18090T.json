@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX18090T",
+        "year1_coupon": 1.75,
+        "year1_return": 1.75,
+        "year2_coupon": 2.02,
+        "year2_return": 1.88,
+        "year3_coupon": 2.22,
+        "year3_return": 1.99,
+        "year4_coupon": 2.39,
+        "year4_return": 2.09,
+        "year5_coupon": 2.52,
+        "year5_return": 2.17,
+        "year6_coupon": 2.6,
+        "year6_return": 2.24,
+        "year7_coupon": 2.66,
+        "year7_return": 2.29,
+        "year8_coupon": 2.73,
+        "year8_return": 2.34,
+        "year9_coupon": 2.82,
+        "year9_return": 2.39,
+        "year10_coupon": 2.97,
+        "year10_return": 2.44
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX19110F",
+        "year1_coupon": 1.62,
+        "year1_return": 1.62,
+        "year2_coupon": 1.62,
+        "year2_return": 1.62,
+        "year3_coupon": 1.62,
+        "year3_return": 1.62,
+        "year4_coupon": 1.68,
+        "year4_return": 1.63,
+        "year5_coupon": 1.73,
+        "year5_return": 1.65,
+        "year6_coupon": 1.73,
+        "year6_return": 1.67,
+        "year7_coupon": 1.78,
+        "year7_return": 1.68,
+        "year8_coupon": 1.83,
+        "year8_return": 1.7,
+        "year9_coupon": 1.88,
+        "year9_return": 1.72,
+        "year10_coupon": 1.91,
+        "year10_return": 1.74
+      }
+    ]
+  }
+}

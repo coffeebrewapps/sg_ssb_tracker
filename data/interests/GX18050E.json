@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX18050E",
+        "year1_coupon": 1.65,
+        "year1_return": 1.65,
+        "year2_coupon": 1.95,
+        "year2_return": 1.8,
+        "year3_coupon": 2.14,
+        "year3_return": 1.91,
+        "year4_coupon": 2.28,
+        "year4_return": 2.0,
+        "year5_coupon": 2.42,
+        "year5_return": 2.08,
+        "year6_coupon": 2.54,
+        "year6_return": 2.15,
+        "year7_coupon": 2.62,
+        "year7_return": 2.21,
+        "year8_coupon": 2.72,
+        "year8_return": 2.27,
+        "year9_coupon": 2.84,
+        "year9_return": 2.33,
+        "year10_coupon": 3.0,
+        "year10_return": 2.39
+      }
+    ]
+  }
+}

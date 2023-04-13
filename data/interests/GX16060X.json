@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX16060X",
+        "year1_coupon": 0.9,
+        "year1_return": 0.9,
+        "year2_coupon": 1.01,
+        "year2_return": 0.95,
+        "year3_coupon": 1.53,
+        "year3_return": 1.14,
+        "year4_coupon": 2.14,
+        "year4_return": 1.39,
+        "year5_coupon": 2.31,
+        "year5_return": 1.57,
+        "year6_coupon": 2.31,
+        "year6_return": 1.68,
+        "year7_coupon": 2.31,
+        "year7_return": 1.77,
+        "year8_coupon": 2.31,
+        "year8_return": 1.83,
+        "year9_coupon": 2.31,
+        "year9_return": 1.88,
+        "year10_coupon": 2.55,
+        "year10_return": 1.94
+      }
+    ]
+  }
+}

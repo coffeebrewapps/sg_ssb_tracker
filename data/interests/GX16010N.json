@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX16010N",
+        "year1_coupon": 1.21,
+        "year1_return": 1.21,
+        "year2_coupon": 1.31,
+        "year2_return": 1.26,
+        "year3_coupon": 1.92,
+        "year3_return": 1.48,
+        "year4_coupon": 2.63,
+        "year4_return": 1.76,
+        "year5_coupon": 3.0,
+        "year5_return": 1.99,
+        "year6_coupon": 3.0,
+        "year6_return": 2.15,
+        "year7_coupon": 3.07,
+        "year7_return": 2.27,
+        "year8_coupon": 3.16,
+        "year8_return": 2.37,
+        "year9_coupon": 3.34,
+        "year9_return": 2.47,
+        "year10_coupon": 3.69,
+        "year10_return": 2.58
+      }
+    ]
+  }
+}

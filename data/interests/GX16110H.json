@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX16110H",
+        "year1_coupon": 0.77,
+        "year1_return": 0.77,
+        "year2_coupon": 0.9,
+        "year2_return": 0.83,
+        "year3_coupon": 1.25,
+        "year3_return": 0.97,
+        "year4_coupon": 1.65,
+        "year4_return": 1.14,
+        "year5_coupon": 1.91,
+        "year5_return": 1.29,
+        "year6_coupon": 2.02,
+        "year6_return": 1.41,
+        "year7_coupon": 2.17,
+        "year7_return": 1.51,
+        "year8_coupon": 2.32,
+        "year8_return": 1.6,
+        "year9_coupon": 2.51,
+        "year9_return": 1.7,
+        "year10_coupon": 2.77,
+        "year10_return": 1.79
+      }
+    ]
+  }
+}

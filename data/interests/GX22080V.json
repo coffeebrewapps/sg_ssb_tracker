@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX22080V",
+        "year1_coupon": 2.0,
+        "year1_return": 2.0,
+        "year2_coupon": 2.86,
+        "year2_return": 2.42,
+        "year3_coupon": 3.07,
+        "year3_return": 2.63,
+        "year4_coupon": 3.09,
+        "year4_return": 2.74,
+        "year5_coupon": 3.16,
+        "year5_return": 2.82,
+        "year6_coupon": 3.18,
+        "year6_return": 2.88,
+        "year7_coupon": 3.18,
+        "year7_return": 2.92,
+        "year8_coupon": 3.18,
+        "year8_return": 2.95,
+        "year9_coupon": 3.18,
+        "year9_return": 2.97,
+        "year10_coupon": 3.29,
+        "year10_return": 3.0
+      }
+    ]
+  }
+}

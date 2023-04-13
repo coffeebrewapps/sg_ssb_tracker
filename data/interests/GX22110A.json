@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX22110A",
+        "year1_coupon": 3.08,
+        "year1_return": 3.08,
+        "year2_coupon": 3.15,
+        "year2_return": 3.11,
+        "year3_coupon": 3.18,
+        "year3_return": 3.14,
+        "year4_coupon": 3.19,
+        "year4_return": 3.15,
+        "year5_coupon": 3.21,
+        "year5_return": 3.16,
+        "year6_coupon": 3.23,
+        "year6_return": 3.17,
+        "year7_coupon": 3.25,
+        "year7_return": 3.18,
+        "year8_coupon": 3.26,
+        "year8_return": 3.19,
+        "year9_coupon": 3.28,
+        "year9_return": 3.2,
+        "year10_coupon": 3.3,
+        "year10_return": 3.21
+      }
+    ]
+  }
+}

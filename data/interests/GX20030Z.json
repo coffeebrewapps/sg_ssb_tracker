@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX20030Z",
+        "year1_coupon": 1.43,
+        "year1_return": 1.43,
+        "year2_coupon": 1.43,
+        "year2_return": 1.43,
+        "year3_coupon": 1.43,
+        "year3_return": 1.43,
+        "year4_coupon": 1.58,
+        "year4_return": 1.47,
+        "year5_coupon": 1.69,
+        "year5_return": 1.51,
+        "year6_coupon": 1.72,
+        "year6_return": 1.54,
+        "year7_coupon": 1.83,
+        "year7_return": 1.58,
+        "year8_coupon": 1.94,
+        "year8_return": 1.62,
+        "year9_coupon": 2.04,
+        "year9_return": 1.67,
+        "year10_coupon": 2.12,
+        "year10_return": 1.71
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX21090S",
+        "year1_coupon": 0.35,
+        "year1_return": 0.35,
+        "year2_coupon": 0.43,
+        "year2_return": 0.39,
+        "year3_coupon": 0.79,
+        "year3_return": 0.52,
+        "year4_coupon": 1.22,
+        "year4_return": 0.69,
+        "year5_coupon": 1.51,
+        "year5_return": 0.85,
+        "year6_coupon": 1.65,
+        "year6_return": 0.98,
+        "year7_coupon": 1.84,
+        "year7_return": 1.1,
+        "year8_coupon": 2.03,
+        "year8_return": 1.21,
+        "year9_coupon": 2.26,
+        "year9_return": 1.32,
+        "year10_coupon": 2.54,
+        "year10_return": 1.43
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX20100N",
+        "year1_coupon": 0.26,
+        "year1_return": 0.26,
+        "year2_coupon": 0.26,
+        "year2_return": 0.26,
+        "year3_coupon": 0.42,
+        "year3_return": 0.31,
+        "year4_coupon": 0.7,
+        "year4_return": 0.41,
+        "year5_coupon": 0.89,
+        "year5_return": 0.5,
+        "year6_coupon": 0.99,
+        "year6_return": 0.58,
+        "year7_coupon": 1.16,
+        "year7_return": 0.66,
+        "year8_coupon": 1.32,
+        "year8_return": 0.74,
+        "year9_coupon": 1.48,
+        "year9_return": 0.82,
+        "year10_coupon": 1.66,
+        "year10_return": 0.9
+      }
+    ]
+  }
+}

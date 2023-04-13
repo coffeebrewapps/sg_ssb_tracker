@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX15110T",
+        "year1_coupon": 1.18,
+        "year1_return": 1.18,
+        "year2_coupon": 1.2,
+        "year2_return": 1.19,
+        "year3_coupon": 2.06,
+        "year3_return": 1.48,
+        "year4_coupon": 3.1,
+        "year4_return": 1.87,
+        "year5_coupon": 3.4,
+        "year5_return": 2.16,
+        "year6_coupon": 3.4,
+        "year6_return": 2.35,
+        "year7_coupon": 3.4,
+        "year7_return": 2.49,
+        "year8_coupon": 3.4,
+        "year8_return": 2.59,
+        "year9_coupon": 3.44,
+        "year9_return": 2.68,
+        "year10_coupon": 3.83,
+        "year10_return": 2.78
+      }
+    ]
+  }
+}

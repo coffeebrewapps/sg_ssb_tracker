@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX20080E",
+        "year1_coupon": 0.27,
+        "year1_return": 0.27,
+        "year2_coupon": 0.35,
+        "year2_return": 0.31,
+        "year3_coupon": 0.49,
+        "year3_return": 0.37,
+        "year4_coupon": 0.64,
+        "year4_return": 0.44,
+        "year5_coupon": 0.81,
+        "year5_return": 0.51,
+        "year6_coupon": 0.99,
+        "year6_return": 0.59,
+        "year7_coupon": 1.19,
+        "year7_return": 0.67,
+        "year8_coupon": 1.39,
+        "year8_return": 0.76,
+        "year9_coupon": 1.58,
+        "year9_return": 0.85,
+        "year10_coupon": 1.76,
+        "year10_return": 0.93
+      }
+    ]
+  }
+}

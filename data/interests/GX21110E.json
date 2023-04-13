@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX21110E",
+        "year1_coupon": 0.34,
+        "year1_return": 0.34,
+        "year2_coupon": 0.45,
+        "year2_return": 0.39,
+        "year3_coupon": 0.77,
+        "year3_return": 0.52,
+        "year4_coupon": 1.14,
+        "year4_return": 0.67,
+        "year5_coupon": 1.42,
+        "year5_return": 0.82,
+        "year6_coupon": 1.63,
+        "year6_return": 0.95,
+        "year7_coupon": 1.88,
+        "year7_return": 1.08,
+        "year8_coupon": 2.13,
+        "year8_return": 1.2,
+        "year9_coupon": 2.4,
+        "year9_return": 1.33,
+        "year10_coupon": 2.69,
+        "year10_return": 1.45
+      }
+    ]
+  }
+}

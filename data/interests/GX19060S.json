@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX19060S",
+        "year1_coupon": 1.88,
+        "year1_return": 1.88,
+        "year2_coupon": 1.88,
+        "year2_return": 1.88,
+        "year3_coupon": 1.88,
+        "year3_return": 1.88,
+        "year4_coupon": 2.03,
+        "year4_return": 1.92,
+        "year5_coupon": 2.13,
+        "year5_return": 1.96,
+        "year6_coupon": 2.15,
+        "year6_return": 1.99,
+        "year7_coupon": 2.24,
+        "year7_return": 2.02,
+        "year8_coupon": 2.32,
+        "year8_return": 2.06,
+        "year9_coupon": 2.41,
+        "year9_return": 2.09,
+        "year10_coupon": 2.48,
+        "year10_return": 2.13
+      }
+    ]
+  }
+}

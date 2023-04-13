@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX23040S",
+        "year1_coupon": 3.01,
+        "year1_return": 3.01,
+        "year2_coupon": 3.01,
+        "year2_return": 3.01,
+        "year3_coupon": 3.01,
+        "year3_return": 3.01,
+        "year4_coupon": 3.01,
+        "year4_return": 3.01,
+        "year5_coupon": 3.01,
+        "year5_return": 3.01,
+        "year6_coupon": 3.01,
+        "year6_return": 3.01,
+        "year7_coupon": 3.18,
+        "year7_return": 3.03,
+        "year8_coupon": 3.38,
+        "year8_return": 3.07,
+        "year9_coupon": 3.52,
+        "year9_return": 3.12,
+        "year10_coupon": 3.53,
+        "year10_return": 3.15
+      }
+    ]
+  }
+}

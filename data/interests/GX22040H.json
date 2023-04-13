@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX22040H",
+        "year1_coupon": 0.71,
+        "year1_return": 0.71,
+        "year2_coupon": 1.63,
+        "year2_return": 1.17,
+        "year3_coupon": 1.92,
+        "year3_return": 1.41,
+        "year4_coupon": 2.04,
+        "year4_return": 1.57,
+        "year5_coupon": 2.15,
+        "year5_return": 1.68,
+        "year6_coupon": 2.15,
+        "year6_return": 1.75,
+        "year7_coupon": 2.15,
+        "year7_return": 1.81,
+        "year8_coupon": 2.15,
+        "year8_return": 1.85,
+        "year9_coupon": 2.15,
+        "year9_return": 1.88,
+        "year10_coupon": 2.28,
+        "year10_return": 1.91
+      }
+    ]
+  }
+}

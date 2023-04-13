@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX18040W",
+        "year1_coupon": 1.42,
+        "year1_return": 1.42,
+        "year2_coupon": 1.77,
+        "year2_return": 1.59,
+        "year3_coupon": 2.02,
+        "year3_return": 1.73,
+        "year4_coupon": 2.25,
+        "year4_return": 1.86,
+        "year5_coupon": 2.41,
+        "year5_return": 1.96,
+        "year6_coupon": 2.51,
+        "year6_return": 2.05,
+        "year7_coupon": 2.59,
+        "year7_return": 2.12,
+        "year8_coupon": 2.67,
+        "year8_return": 2.19,
+        "year9_coupon": 2.79,
+        "year9_return": 2.25,
+        "year10_coupon": 2.97,
+        "year10_return": 2.31
+      }
+    ]
+  }
+}

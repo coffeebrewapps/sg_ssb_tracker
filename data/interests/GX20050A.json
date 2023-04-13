@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX20050A",
+        "year1_coupon": 0.96,
+        "year1_return": 0.96,
+        "year2_coupon": 0.96,
+        "year2_return": 0.96,
+        "year3_coupon": 1.01,
+        "year3_return": 0.98,
+        "year4_coupon": 1.28,
+        "year4_return": 1.05,
+        "year5_coupon": 1.43,
+        "year5_return": 1.13,
+        "year6_coupon": 1.46,
+        "year6_return": 1.18,
+        "year7_coupon": 1.57,
+        "year7_return": 1.23,
+        "year8_coupon": 1.68,
+        "year8_return": 1.29,
+        "year9_coupon": 1.79,
+        "year9_return": 1.34,
+        "year10_coupon": 1.91,
+        "year10_return": 1.39
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX22030E",
+        "year1_coupon": 0.59,
+        "year1_return": 0.59,
+        "year2_coupon": 1.35,
+        "year2_return": 0.97,
+        "year3_coupon": 1.72,
+        "year3_return": 1.22,
+        "year4_coupon": 1.98,
+        "year4_return": 1.4,
+        "year5_coupon": 2.06,
+        "year5_return": 1.53,
+        "year6_coupon": 2.06,
+        "year6_return": 1.61,
+        "year7_coupon": 2.06,
+        "year7_return": 1.67,
+        "year8_coupon": 2.06,
+        "year8_return": 1.72,
+        "year9_coupon": 2.06,
+        "year9_return": 1.75,
+        "year10_coupon": 2.18,
+        "year10_return": 1.79
+      }
+    ]
+  }
+}

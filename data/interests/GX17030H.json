@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX17030H",
+        "year1_coupon": 1.04,
+        "year1_return": 1.04,
+        "year2_coupon": 1.41,
+        "year2_return": 1.22,
+        "year3_coupon": 1.83,
+        "year3_return": 1.42,
+        "year4_coupon": 2.26,
+        "year4_return": 1.63,
+        "year5_coupon": 2.56,
+        "year5_return": 1.81,
+        "year6_coupon": 2.7,
+        "year6_return": 1.95,
+        "year7_coupon": 2.83,
+        "year7_return": 2.06,
+        "year8_coupon": 2.98,
+        "year8_return": 2.17,
+        "year9_coupon": 3.19,
+        "year9_return": 2.27,
+        "year10_coupon": 3.5,
+        "year10_return": 2.38
+      }
+    ]
+  }
+}

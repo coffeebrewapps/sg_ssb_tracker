@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX21070X",
+        "year1_coupon": 0.36,
+        "year1_return": 0.36,
+        "year2_coupon": 0.43,
+        "year2_return": 0.39,
+        "year3_coupon": 0.71,
+        "year3_return": 0.5,
+        "year4_coupon": 1.05,
+        "year4_return": 0.64,
+        "year5_coupon": 1.37,
+        "year5_return": 0.78,
+        "year6_coupon": 1.66,
+        "year6_return": 0.92,
+        "year7_coupon": 2.01,
+        "year7_return": 1.07,
+        "year8_coupon": 2.36,
+        "year8_return": 1.22,
+        "year9_coupon": 2.71,
+        "year9_return": 1.38,
+        "year10_coupon": 3.04,
+        "year10_return": 1.53
+      }
+    ]
+  }
+}

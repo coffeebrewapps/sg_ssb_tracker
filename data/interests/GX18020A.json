@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX18020A",
+        "year1_coupon": 1.55,
+        "year1_return": 1.55,
+        "year2_coupon": 1.59,
+        "year2_return": 1.57,
+        "year3_coupon": 1.67,
+        "year3_return": 1.6,
+        "year4_coupon": 1.77,
+        "year4_return": 1.64,
+        "year5_coupon": 1.91,
+        "year5_return": 1.69,
+        "year6_coupon": 2.07,
+        "year6_return": 1.75,
+        "year7_coupon": 2.26,
+        "year7_return": 1.82,
+        "year8_coupon": 2.44,
+        "year8_return": 1.89,
+        "year9_coupon": 2.61,
+        "year9_return": 1.97,
+        "year10_coupon": 2.75,
+        "year10_return": 2.04
+      }
+    ]
+  }
+}

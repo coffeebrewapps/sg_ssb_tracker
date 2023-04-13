@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX15120V",
+        "year1_coupon": 1.15,
+        "year1_return": 1.15,
+        "year2_coupon": 1.15,
+        "year2_return": 1.15,
+        "year3_coupon": 1.65,
+        "year3_return": 1.31,
+        "year4_coupon": 2.41,
+        "year4_return": 1.58,
+        "year5_coupon": 2.81,
+        "year5_return": 1.82,
+        "year6_coupon": 2.81,
+        "year6_return": 1.97,
+        "year7_coupon": 2.93,
+        "year7_return": 2.1,
+        "year8_coupon": 3.08,
+        "year8_return": 2.21,
+        "year9_coupon": 3.29,
+        "year9_return": 2.32,
+        "year10_coupon": 3.64,
+        "year10_return": 2.44
+      }
+    ]
+  }
+}

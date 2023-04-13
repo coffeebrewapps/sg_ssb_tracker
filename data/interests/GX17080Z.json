@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX17080Z",
+        "year1_coupon": 1.05,
+        "year1_return": 1.05,
+        "year2_coupon": 1.4,
+        "year2_return": 1.22,
+        "year3_coupon": 1.59,
+        "year3_return": 1.34,
+        "year4_coupon": 1.75,
+        "year4_return": 1.44,
+        "year5_coupon": 1.95,
+        "year5_return": 1.54,
+        "year6_coupon": 2.2,
+        "year6_return": 1.65,
+        "year7_coupon": 2.42,
+        "year7_return": 1.75,
+        "year8_coupon": 2.64,
+        "year8_return": 1.85,
+        "year9_coupon": 2.87,
+        "year9_return": 1.96,
+        "year10_coupon": 3.11,
+        "year10_return": 2.06
+      }
+    ]
+  }
+}

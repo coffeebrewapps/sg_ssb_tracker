@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX21100W",
+        "year1_coupon": 0.35,
+        "year1_return": 0.35,
+        "year2_coupon": 0.37,
+        "year2_return": 0.36,
+        "year3_coupon": 0.71,
+        "year3_return": 0.48,
+        "year4_coupon": 1.13,
+        "year4_return": 0.64,
+        "year5_coupon": 1.42,
+        "year5_return": 0.79,
+        "year6_coupon": 1.58,
+        "year6_return": 0.92,
+        "year7_coupon": 1.8,
+        "year7_return": 1.04,
+        "year8_coupon": 2.03,
+        "year8_return": 1.16,
+        "year9_coupon": 2.27,
+        "year9_return": 1.27,
+        "year10_coupon": 2.55,
+        "year10_return": 1.39
+      }
+    ]
+  }
+}
