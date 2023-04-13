@@ -45,6 +45,7 @@ jobs:
           echo "Updating data to ${GITHUB_REPOSITORY} on branch ${REMOTE_BRANCH}"
           git fetch && \
             git switch $REMOTE_BRANCH && \
+            git pull origin $REMOTE_BRANCH && \
             git checkout $LATEST_VERSION data/* && \
             git -c user.name="${GITHUB_ACTOR}" -c user.email="${GITHUB_ACTOR}@users.noreply.github.com" \
               commit --quiet --message "Update issues data" && \
