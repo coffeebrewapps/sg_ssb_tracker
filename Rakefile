@@ -85,6 +85,7 @@ task :fetch_issues, [:issues_url, :interests_url] do |_t, args|
       end_date = Date.new(year + 1, 1, 1).prev_day
 
       params = {
+        rows: 200,
         filters: "issue_type:\"S\" AND ann_date:[#{start_date} TO #{end_date}]",
         sort: "ann_date asc"
       }
