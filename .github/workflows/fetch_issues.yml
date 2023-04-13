@@ -31,7 +31,7 @@ jobs:
       - name: Fetch issuance data
         run: |
           echo "Fetching issuance data..."
-          script/fetch_issues ${{ secrets.SSB_ISSUES_URL }}
+          script/fetch_issues ${{ secrets.SSB_ISSUES_URL }} ${{ secrets.SSB_INTERESTS_URL }}
 
           REMOTE_BRANCH="${REMOTE_BRANCH:-data}"
           REMOTE_REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
