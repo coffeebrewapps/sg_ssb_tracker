@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX20010T",
+        "year1_coupon": 1.52,
+        "year1_return": 1.52,
+        "year2_coupon": 1.52,
+        "year2_return": 1.52,
+        "year3_coupon": 1.52,
+        "year3_return": 1.52,
+        "year4_coupon": 1.73,
+        "year4_return": 1.57,
+        "year5_coupon": 1.82,
+        "year5_return": 1.62,
+        "year6_coupon": 1.82,
+        "year6_return": 1.65,
+        "year7_coupon": 1.86,
+        "year7_return": 1.68,
+        "year8_coupon": 1.92,
+        "year8_return": 1.71,
+        "year9_coupon": 1.98,
+        "year9_return": 1.74,
+        "year10_coupon": 2.04,
+        "year10_return": 1.76
+      }
+    ]
+  }
+}

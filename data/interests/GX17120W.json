@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX17120W",
+        "year1_coupon": 1.26,
+        "year1_return": 1.26,
+        "year2_coupon": 1.52,
+        "year2_return": 1.39,
+        "year3_coupon": 1.68,
+        "year3_return": 1.48,
+        "year4_coupon": 1.82,
+        "year4_return": 1.57,
+        "year5_coupon": 2.02,
+        "year5_return": 1.65,
+        "year6_coupon": 2.26,
+        "year6_return": 1.75,
+        "year7_coupon": 2.5,
+        "year7_return": 1.85,
+        "year8_coupon": 2.73,
+        "year8_return": 1.95,
+        "year9_coupon": 2.97,
+        "year9_return": 2.06,
+        "year10_coupon": 3.19,
+        "year10_return": 2.16
+      }
+    ]
+  }
+}
