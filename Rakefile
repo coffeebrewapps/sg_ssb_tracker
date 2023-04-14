@@ -61,9 +61,10 @@ def fetch_issues_interest(issues_data, interests_url)
 end
 
 desc "Fetch issuance data"
-task :fetch_issues, [:issues_url, :interests_url] do |_t, args|
+task :fetch_issues, [:issues_url, :interests_url, :override] do |_t, args|
   issues_url = args[:issues_url]
   interests_url = args[:interests_url]
+  override = args[:override] == "true"
 
   earliest_year = 2015
   current_year = Date.today.year
@@ -74,7 +75,7 @@ task :fetch_issues, [:issues_url, :interests_url] do |_t, args|
                           JSON.parse(File.read("data/metadata.json"))["latest_year"].to_i
                         end
 
-  if fetched_latest_year == current_year
+  if fetched_latest_year == current_year && !override
     puts "No new issues to fetch, skipping..."
     issues_data = JSON.parse(File.read("data/issues.json")).dig("result", "records")
   else

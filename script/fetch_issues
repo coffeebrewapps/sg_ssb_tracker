@@ -2,4 +2,4 @@
 
 set -e
 
-bundle exec rake fetch_issues["$1","$2"]
+bundle exec rake fetch_issues["$1","$2","$3"]
