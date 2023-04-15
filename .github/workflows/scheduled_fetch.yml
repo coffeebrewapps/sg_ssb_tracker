@@ -1,0 +1,11 @@
+name: Scheduled Fetch Issuance Data
+
+# issuance announcement usually on 1st-4th at 1800 SGT every month, run every month 1st to 5th at 1120 UTC / 1920 SGT
+on:
+  schedule:
+    - cron:  '20 11 1-5 * *'
+
+jobs:
+  fetch:
+    uses: coffeebrewapps/sg_ssb_tracker/.github/workflows/fetch_issues.yml@main
+    secrets: inherit
