@@ -1,6 +1,11 @@
 name: Fetch Issuance Data
 
 on:
+  workflow_call:
+    inputs:
+      override:
+        description: "Override data"
+        default: false
   workflow_dispatch:
     inputs:
       override:
