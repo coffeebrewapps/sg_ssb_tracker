@@ -8,4 +8,6 @@ on:
 jobs:
   fetch:
     uses: coffeebrewapps/sg_ssb_tracker/.github/workflows/fetch_issues.yml@main
+    with:
+      override: false
     secrets: inherit

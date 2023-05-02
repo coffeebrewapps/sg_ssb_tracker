@@ -4,8 +4,8 @@ on:
   workflow_call:
     inputs:
       override:
-        description: "Override data"
-        default: false
+        required: true
+        type: boolean
   workflow_dispatch:
     inputs:
       override:
