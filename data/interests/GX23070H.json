@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX23070H",
+        "year1_coupon": 2.76,
+        "year1_return": 2.76,
+        "year2_coupon": 2.76,
+        "year2_return": 2.76,
+        "year3_coupon": 2.76,
+        "year3_return": 2.76,
+        "year4_coupon": 2.76,
+        "year4_return": 2.76,
+        "year5_coupon": 2.76,
+        "year5_return": 2.76,
+        "year6_coupon": 2.76,
+        "year6_return": 2.76,
+        "year7_coupon": 2.76,
+        "year7_return": 2.76,
+        "year8_coupon": 2.95,
+        "year8_return": 2.78,
+        "year9_coupon": 3.02,
+        "year9_return": 2.81,
+        "year10_coupon": 3.02,
+        "year10_return": 2.82
+      }
+    ]
+  }
+}
