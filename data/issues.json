@@ -1537,7 +1537,7 @@
         "tender_date": "2023-08-29",
         "issue_date": "2023-09-01",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2033-09-01"
       },
       {
         "issue_code": "GX23100T",
