@@ -1553,7 +1553,7 @@
         "tender_date": "2023-09-27",
         "issue_date": "2023-10-02",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2033-10-01"
       },
       {
         "issue_code": "GX23110V",

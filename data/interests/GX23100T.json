@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX23100T",
+        "year1_coupon": 3.05,
+        "year1_return": 3.05,
+        "year2_coupon": 3.05,
+        "year2_return": 3.05,
+        "year3_coupon": 3.05,
+        "year3_return": 3.05,
+        "year4_coupon": 3.05,
+        "year4_return": 3.05,
+        "year5_coupon": 3.05,
+        "year5_return": 3.05,
+        "year6_coupon": 3.05,
+        "year6_return": 3.05,
+        "year7_coupon": 3.1,
+        "year7_return": 3.06,
+        "year8_coupon": 3.36,
+        "year8_return": 3.09,
+        "year9_coupon": 3.48,
+        "year9_return": 3.13,
+        "year10_coupon": 3.48,
+        "year10_return": 3.16
+      }
+    ]
+  }
+}
