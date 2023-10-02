@@ -1569,7 +1569,7 @@
         "tender_date": "2023-10-27",
         "issue_date": "2023-11-01",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2033-11-01"
       },
       {
         "issue_code": "GX23120Z",
