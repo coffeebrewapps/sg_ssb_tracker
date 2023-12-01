@@ -1,7 +1,7 @@
 {
   "success": true,
   "result": {
-    "total": 99,
+    "total": 100,
     "records": [
       {
         "issue_code": "GX15100F",
@@ -1586,6 +1586,22 @@
         "issue_date": "2023-12-01",
         "flag": "Y",
         "maturity_date": "2033-12-01"
+      },
+      {
+        "issue_code": "GX24010F",
+        "issue_no": "1",
+        "isin_code": "SGXZ52988458",
+        "issue_type": "S",
+        "auction_tenor": 10.0,
+        "tenor_unit": "Y",
+        "curr": "SGD",
+        "new_reopen": "N",
+        "ann_date": "2023-12-01",
+        "last_day_to_apply": "2023-12-26",
+        "tender_date": "2023-12-27",
+        "issue_date": "2024-01-02",
+        "flag": "Y",
+        "maturity_date": "2034-01-01"
       }
     ]
   }
