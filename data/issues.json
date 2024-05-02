@@ -1681,7 +1681,7 @@
         "tender_date": "2024-05-29",
         "issue_date": "2024-06-03",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2034-06-01"
       },
       {
         "issue_code": "GX24070S",
