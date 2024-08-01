@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX24090E",
+        "year1_coupon": 3.06,
+        "year1_return": 3.06,
+        "year2_coupon": 3.06,
+        "year2_return": 3.06,
+        "year3_coupon": 3.06,
+        "year3_return": 3.06,
+        "year4_coupon": 3.06,
+        "year4_return": 3.06,
+        "year5_coupon": 3.06,
+        "year5_return": 3.06,
+        "year6_coupon": 3.06,
+        "year6_return": 3.06,
+        "year7_coupon": 3.09,
+        "year7_return": 3.06,
+        "year8_coupon": 3.17,
+        "year8_return": 3.08,
+        "year9_coupon": 3.21,
+        "year9_return": 3.09,
+        "year10_coupon": 3.21,
+        "year10_return": 3.1
+      }
+    ]
+  }
+}
