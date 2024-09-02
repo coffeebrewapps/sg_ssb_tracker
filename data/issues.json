@@ -1745,7 +1745,7 @@
         "tender_date": "2024-09-26",
         "issue_date": "2024-10-01",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2034-10-01"
       },
       {
         "issue_code": "GX24110N",
