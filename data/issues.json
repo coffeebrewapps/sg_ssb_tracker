@@ -1761,7 +1761,7 @@
         "tender_date": "2024-10-28",
         "issue_date": "2024-11-01",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2034-11-01"
       },
       {
         "issue_code": "GX24120F",

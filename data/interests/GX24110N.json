@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX24110N",
+        "year1_coupon": 2.25,
+        "year1_return": 2.25,
+        "year2_coupon": 2.25,
+        "year2_return": 2.25,
+        "year3_coupon": 2.25,
+        "year3_return": 2.25,
+        "year4_coupon": 2.58,
+        "year4_return": 2.33,
+        "year5_coupon": 2.67,
+        "year5_return": 2.39,
+        "year6_coupon": 2.67,
+        "year6_return": 2.44,
+        "year7_coupon": 2.67,
+        "year7_return": 2.47,
+        "year8_coupon": 2.74,
+        "year8_return": 2.5,
+        "year9_coupon": 2.82,
+        "year9_return": 2.53,
+        "year10_coupon": 2.87,
+        "year10_return": 2.56
+      }
+    ]
+  }
+}
