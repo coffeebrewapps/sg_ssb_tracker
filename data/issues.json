@@ -1793,7 +1793,7 @@
         "tender_date": "2024-12-27",
         "issue_date": "2025-01-02",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2035-01-01"
       }
     ]
   }
