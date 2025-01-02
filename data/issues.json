@@ -1809,7 +1809,7 @@
         "tender_date": "2025-01-27",
         "issue_date": "2025-02-03",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2035-02-01"
       },
       {
         "issue_code": "GX25030N",
