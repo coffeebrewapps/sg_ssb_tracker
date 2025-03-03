@@ -1841,7 +1841,7 @@
         "tender_date": "2025-03-26",
         "issue_date": "2025-04-01",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2035-04-01"
       },
       {
         "issue_code": "GX25050T",
