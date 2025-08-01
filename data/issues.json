@@ -1921,7 +1921,7 @@
         "tender_date": "2025-08-27",
         "issue_date": "2025-09-01",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2035-09-01"
       },
       {
         "issue_code": "GX25100S",
