@@ -1937,7 +1937,7 @@
         "tender_date": "2025-09-26",
         "issue_date": "2025-10-01",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2035-10-01"
       },
       {
         "issue_code": "GX25110W",
