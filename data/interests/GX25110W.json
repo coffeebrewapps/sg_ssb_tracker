@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX25110W",
+        "year1_coupon": 1.39,
+        "year1_return": 1.39,
+        "year2_coupon": 1.48,
+        "year2_return": 1.43,
+        "year3_coupon": 1.54,
+        "year3_return": 1.47,
+        "year4_coupon": 1.59,
+        "year4_return": 1.5,
+        "year5_coupon": 1.69,
+        "year5_return": 1.54,
+        "year6_coupon": 1.85,
+        "year6_return": 1.59,
+        "year7_coupon": 2.01,
+        "year7_return": 1.64,
+        "year8_coupon": 2.17,
+        "year8_return": 1.71,
+        "year9_coupon": 2.32,
+        "year9_return": 1.77,
+        "year10_coupon": 2.44,
+        "year10_return": 1.83
+      }
+    ]
+  }
+}
