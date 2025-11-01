@@ -1,7 +1,7 @@
 {
   "success": true,
   "result": {
-    "total": 123,
+    "total": 124,
     "records": [
       {
         "issue_code": "GX15100F",
@@ -1968,6 +1968,22 @@
         "last_day_to_apply": "2025-11-25",
         "tender_date": "2025-11-26",
         "issue_date": "2025-12-01",
+        "flag": "Y",
+        "maturity_date": null
+      },
+      {
+        "issue_code": "GX26010A",
+        "issue_no": "1",
+        "isin_code": "SGXZ42037945",
+        "issue_type": "S",
+        "auction_tenor": 10.0,
+        "tenor_unit": "Y",
+        "curr": "SGD",
+        "new_reopen": "N",
+        "ann_date": "2025-12-01",
+        "last_day_to_apply": "2025-12-26",
+        "tender_date": "2025-12-29",
+        "issue_date": "2026-01-02",
         "flag": "Y",
         "maturity_date": null
       }
