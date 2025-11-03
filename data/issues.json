@@ -1969,7 +1969,7 @@
         "tender_date": "2025-11-26",
         "issue_date": "2025-12-01",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2035-12-01"
       },
       {
         "issue_code": "GX26010A",
