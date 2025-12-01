@@ -17,7 +17,18 @@
         "tender_date": "2015-09-28",
         "issue_date": "2015-10-01",
         "flag": "Y",
-        "maturity_date": "2025-10-01"
+        "maturity_date": "2025-10-01",
+        "ann_date_formatted": "01 Sep 2015",
+        "last_day_to_apply_formatted": "25 Sep 2015",
+        "tender_date_formatted": "28 Sep 2015",
+        "issue_date_formatted": "01 Oct 2015",
+        "maturity_date_formatted": "01 Oct 2025",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX15100F&issue_date=2015-10-01",
+        "savings_bond_code": "SBOCT15",
+        "last_updated_at": "2015-09-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX15110T",
@@ -33,7 +44,18 @@
         "tender_date": "2015-10-28",
         "issue_date": "2015-11-02",
         "flag": "Y",
-        "maturity_date": "2025-11-01"
+        "maturity_date": "2025-11-01",
+        "ann_date_formatted": "01 Oct 2015",
+        "last_day_to_apply_formatted": "27 Oct 2015",
+        "tender_date_formatted": "28 Oct 2015",
+        "issue_date_formatted": "02 Nov 2015",
+        "maturity_date_formatted": "01 Nov 2025",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX15110T&issue_date=2015-11-02",
+        "savings_bond_code": "SBNOV15",
+        "last_updated_at": "2015-10-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX15120V",
@@ -49,7 +71,18 @@
         "tender_date": "2015-11-26",
         "issue_date": "2015-12-01",
         "flag": "Y",
-        "maturity_date": "2025-12-01"
+        "maturity_date": "2025-12-01",
+        "ann_date_formatted": "02 Nov 2015",
+        "last_day_to_apply_formatted": "25 Nov 2015",
+        "tender_date_formatted": "26 Nov 2015",
+        "issue_date_formatted": "01 Dec 2015",
+        "maturity_date_formatted": "01 Dec 2025",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX15120V&issue_date=2015-12-01",
+        "savings_bond_code": "SBDEC15",
+        "last_updated_at": "2015-11-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX16010N",
@@ -65,7 +98,18 @@
         "tender_date": "2015-12-29",
         "issue_date": "2016-01-04",
         "flag": "Y",
-        "maturity_date": "2026-01-01"
+        "maturity_date": "2026-01-01",
+        "ann_date_formatted": "01 Dec 2015",
+        "last_day_to_apply_formatted": "28 Dec 2015",
+        "tender_date_formatted": "29 Dec 2015",
+        "issue_date_formatted": "04 Jan 2016",
+        "maturity_date_formatted": "01 Jan 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16010N&issue_date=2016-01-04",
+        "savings_bond_code": "SBJAN16",
+        "last_updated_at": "2015-12-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX16020F",
@@ -81,7 +125,18 @@
         "tender_date": "2016-01-27",
         "issue_date": "2016-02-01",
         "flag": "Y",
-        "maturity_date": "2026-02-01"
+        "maturity_date": "2026-02-01",
+        "ann_date_formatted": "04 Jan 2016",
+        "last_day_to_apply_formatted": "26 Jan 2016",
+        "tender_date_formatted": "27 Jan 2016",
+        "issue_date_formatted": "01 Feb 2016",
+        "maturity_date_formatted": "01 Feb 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16020F&issue_date=2016-02-01",
+        "savings_bond_code": "SBFEB16",
+        "last_updated_at": "2016-01-04T00:00:00.000Z"
       },
       {
         "issue_code": "GX16030T",
@@ -97,7 +152,18 @@
         "tender_date": "2016-02-25",
         "issue_date": "2016-03-01",
         "flag": "Y",
-        "maturity_date": "2026-03-01"
+        "maturity_date": "2026-03-01",
+        "ann_date_formatted": "01 Feb 2016",
+        "last_day_to_apply_formatted": "24 Feb 2016",
+        "tender_date_formatted": "25 Feb 2016",
+        "issue_date_formatted": "01 Mar 2016",
+        "maturity_date_formatted": "01 Mar 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16030T&issue_date=2016-03-01",
+        "savings_bond_code": "SBMAR16",
+        "last_updated_at": "2016-02-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX16040V",
@@ -113,7 +179,18 @@
         "tender_date": "2016-03-29",
         "issue_date": "2016-04-01",
         "flag": "Y",
-        "maturity_date": "2026-04-01"
+        "maturity_date": "2026-04-01",
+        "ann_date_formatted": "01 Mar 2016",
+        "last_day_to_apply_formatted": "28 Mar 2016",
+        "tender_date_formatted": "29 Mar 2016",
+        "issue_date_formatted": "01 Apr 2016",
+        "maturity_date_formatted": "01 Apr 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16040V&issue_date=2016-04-01",
+        "savings_bond_code": "SBAPR16",
+        "last_updated_at": "2016-03-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX16050Z",
@@ -129,7 +206,18 @@
         "tender_date": "2016-04-27",
         "issue_date": "2016-05-03",
         "flag": "Y",
-        "maturity_date": "2026-05-01"
+        "maturity_date": "2026-05-01",
+        "ann_date_formatted": "01 Apr 2016",
+        "last_day_to_apply_formatted": "26 Apr 2016",
+        "tender_date_formatted": "27 Apr 2016",
+        "issue_date_formatted": "03 May 2016",
+        "maturity_date_formatted": "01 May 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16050Z&issue_date=2016-05-03",
+        "savings_bond_code": "SBMAY16",
+        "last_updated_at": "2016-04-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX16060X",
@@ -145,7 +233,18 @@
         "tender_date": "2016-05-27",
         "issue_date": "2016-06-01",
         "flag": "Y",
-        "maturity_date": "2026-06-01"
+        "maturity_date": "2026-06-01",
+        "ann_date_formatted": "03 May 2016",
+        "last_day_to_apply_formatted": "26 May 2016",
+        "tender_date_formatted": "27 May 2016",
+        "issue_date_formatted": "01 Jun 2016",
+        "maturity_date_formatted": "01 Jun 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16060X&issue_date=2016-06-01",
+        "savings_bond_code": "SBJUN16",
+        "last_updated_at": "2016-05-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX16070A",
@@ -161,7 +260,18 @@
         "tender_date": "2016-06-28",
         "issue_date": "2016-07-01",
         "flag": "Y",
-        "maturity_date": "2026-07-01"
+        "maturity_date": "2026-07-01",
+        "ann_date_formatted": "01 Jun 2016",
+        "last_day_to_apply_formatted": "27 Jun 2016",
+        "tender_date_formatted": "28 Jun 2016",
+        "issue_date_formatted": "01 Jul 2016",
+        "maturity_date_formatted": "01 Jul 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16070A&issue_date=2016-07-01",
+        "savings_bond_code": "SBJUL16",
+        "last_updated_at": "2016-06-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX16080S",
@@ -177,7 +287,18 @@
         "tender_date": "2016-07-27",
         "issue_date": "2016-08-01",
         "flag": "Y",
-        "maturity_date": "2026-08-01"
+        "maturity_date": "2026-08-01",
+        "ann_date_formatted": "01 Jul 2016",
+        "last_day_to_apply_formatted": "26 Jul 2016",
+        "tender_date_formatted": "27 Jul 2016",
+        "issue_date_formatted": "01 Aug 2016",
+        "maturity_date_formatted": "01 Aug 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16080S&issue_date=2016-08-01",
+        "savings_bond_code": "SBAUG16",
+        "last_updated_at": "2016-07-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX16090W",
@@ -193,7 +314,18 @@
         "tender_date": "2016-08-29",
         "issue_date": "2016-09-01",
         "flag": "Y",
-        "maturity_date": "2026-09-01"
+        "maturity_date": "2026-09-01",
+        "ann_date_formatted": "01 Aug 2016",
+        "last_day_to_apply_formatted": "26 Aug 2016",
+        "tender_date_formatted": "29 Aug 2016",
+        "issue_date_formatted": "01 Sep 2016",
+        "maturity_date_formatted": "01 Sep 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16090W&issue_date=2016-09-01",
+        "savings_bond_code": "SBSEP16",
+        "last_updated_at": "2016-08-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX16100E",
@@ -209,7 +341,18 @@
         "tender_date": "2016-09-28",
         "issue_date": "2016-10-03",
         "flag": "Y",
-        "maturity_date": "2026-10-01"
+        "maturity_date": "2026-10-01",
+        "ann_date_formatted": "01 Sep 2016",
+        "last_day_to_apply_formatted": "27 Sep 2016",
+        "tender_date_formatted": "28 Sep 2016",
+        "issue_date_formatted": "03 Oct 2016",
+        "maturity_date_formatted": "01 Oct 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16100E&issue_date=2016-10-03",
+        "savings_bond_code": "SBOCT16",
+        "last_updated_at": "2016-09-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX16110H",
@@ -225,7 +368,18 @@
         "tender_date": "2016-10-27",
         "issue_date": "2016-11-01",
         "flag": "Y",
-        "maturity_date": "2026-11-01"
+        "maturity_date": "2026-11-01",
+        "ann_date_formatted": "03 Oct 2016",
+        "last_day_to_apply_formatted": "26 Oct 2016",
+        "tender_date_formatted": "27 Oct 2016",
+        "issue_date_formatted": "01 Nov 2016",
+        "maturity_date_formatted": "01 Nov 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16110H&issue_date=2016-11-01",
+        "savings_bond_code": "SBNOV16",
+        "last_updated_at": "2016-10-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX16120N",
@@ -241,7 +395,18 @@
         "tender_date": "2016-11-28",
         "issue_date": "2016-12-01",
         "flag": "Y",
-        "maturity_date": "2026-12-01"
+        "maturity_date": "2026-12-01",
+        "ann_date_formatted": "01 Nov 2016",
+        "last_day_to_apply_formatted": "25 Nov 2016",
+        "tender_date_formatted": "28 Nov 2016",
+        "issue_date_formatted": "01 Dec 2016",
+        "maturity_date_formatted": "01 Dec 2026",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX16120N&issue_date=2016-12-01",
+        "savings_bond_code": "SBDEC16",
+        "last_updated_at": "2016-11-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX17010W",
@@ -257,7 +422,18 @@
         "tender_date": "2016-12-28",
         "issue_date": "2017-01-03",
         "flag": "Y",
-        "maturity_date": "2027-01-01"
+        "maturity_date": "2027-01-01",
+        "ann_date_formatted": "01 Dec 2016",
+        "last_day_to_apply_formatted": "27 Dec 2016",
+        "tender_date_formatted": "28 Dec 2016",
+        "issue_date_formatted": "03 Jan 2017",
+        "maturity_date_formatted": "01 Jan 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17010W&issue_date=2017-01-03",
+        "savings_bond_code": "SBJAN17",
+        "last_updated_at": "2016-12-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX17020E",
@@ -273,7 +449,18 @@
         "tender_date": "2017-01-26",
         "issue_date": "2017-02-01",
         "flag": "Y",
-        "maturity_date": "2027-02-01"
+        "maturity_date": "2027-02-01",
+        "ann_date_formatted": "03 Jan 2017",
+        "last_day_to_apply_formatted": "25 Jan 2017",
+        "tender_date_formatted": "26 Jan 2017",
+        "issue_date_formatted": "01 Feb 2017",
+        "maturity_date_formatted": "01 Feb 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17020E&issue_date=2017-02-01",
+        "savings_bond_code": "SBFEB17",
+        "last_updated_at": "2017-01-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX17030H",
@@ -289,7 +476,18 @@
         "tender_date": "2017-02-24",
         "issue_date": "2017-03-01",
         "flag": "Y",
-        "maturity_date": "2027-03-01"
+        "maturity_date": "2027-03-01",
+        "ann_date_formatted": "01 Feb 2017",
+        "last_day_to_apply_formatted": "23 Feb 2017",
+        "tender_date_formatted": "24 Feb 2017",
+        "issue_date_formatted": "01 Mar 2017",
+        "maturity_date_formatted": "01 Mar 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17030H&issue_date=2017-03-01",
+        "savings_bond_code": "SBMAR17",
+        "last_updated_at": "2017-02-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX17040N",
@@ -305,7 +503,18 @@
         "tender_date": "2017-03-29",
         "issue_date": "2017-04-03",
         "flag": "Y",
-        "maturity_date": "2027-04-01"
+        "maturity_date": "2027-04-01",
+        "ann_date_formatted": "01 Mar 2017",
+        "last_day_to_apply_formatted": "28 Mar 2017",
+        "tender_date_formatted": "29 Mar 2017",
+        "issue_date_formatted": "03 Apr 2017",
+        "maturity_date_formatted": "01 Apr 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17040N&issue_date=2017-04-03",
+        "savings_bond_code": "SBAPR17",
+        "last_updated_at": "2017-03-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX17050F",
@@ -321,7 +530,18 @@
         "tender_date": "2017-04-26",
         "issue_date": "2017-05-02",
         "flag": "Y",
-        "maturity_date": "2027-05-01"
+        "maturity_date": "2027-05-01",
+        "ann_date_formatted": "03 Apr 2017",
+        "last_day_to_apply_formatted": "25 Apr 2017",
+        "tender_date_formatted": "26 Apr 2017",
+        "issue_date_formatted": "02 May 2017",
+        "maturity_date_formatted": "01 May 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17050F&issue_date=2017-05-02",
+        "savings_bond_code": "SBMAY17",
+        "last_updated_at": "2017-04-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX17060T",
@@ -337,7 +557,18 @@
         "tender_date": "2017-05-29",
         "issue_date": "2017-06-01",
         "flag": "Y",
-        "maturity_date": "2027-06-01"
+        "maturity_date": "2027-06-01",
+        "ann_date_formatted": "02 May 2017",
+        "last_day_to_apply_formatted": "26 May 2017",
+        "tender_date_formatted": "29 May 2017",
+        "issue_date_formatted": "01 Jun 2017",
+        "maturity_date_formatted": "01 Jun 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17060T&issue_date=2017-06-01",
+        "savings_bond_code": "SBJUN17",
+        "last_updated_at": "2017-05-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX17070V",
@@ -353,7 +584,18 @@
         "tender_date": "2017-06-28",
         "issue_date": "2017-07-03",
         "flag": "Y",
-        "maturity_date": "2027-07-01"
+        "maturity_date": "2027-07-01",
+        "ann_date_formatted": "01 Jun 2017",
+        "last_day_to_apply_formatted": "27 Jun 2017",
+        "tender_date_formatted": "28 Jun 2017",
+        "issue_date_formatted": "03 Jul 2017",
+        "maturity_date_formatted": "01 Jul 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17070V&issue_date=2017-07-03",
+        "savings_bond_code": "SBJUL17",
+        "last_updated_at": "2017-06-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX17080Z",
@@ -369,7 +611,18 @@
         "tender_date": "2017-07-27",
         "issue_date": "2017-08-01",
         "flag": "Y",
-        "maturity_date": "2027-08-01"
+        "maturity_date": "2027-08-01",
+        "ann_date_formatted": "03 Jul 2017",
+        "last_day_to_apply_formatted": "26 Jul 2017",
+        "tender_date_formatted": "27 Jul 2017",
+        "issue_date_formatted": "01 Aug 2017",
+        "maturity_date_formatted": "01 Aug 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17080Z&issue_date=2017-08-01",
+        "savings_bond_code": "SBAUG17",
+        "last_updated_at": "2017-07-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX17090X",
@@ -385,7 +638,18 @@
         "tender_date": "2017-08-29",
         "issue_date": "2017-09-04",
         "flag": "Y",
-        "maturity_date": "2027-09-01"
+        "maturity_date": "2027-09-01",
+        "ann_date_formatted": "01 Aug 2017",
+        "last_day_to_apply_formatted": "28 Aug 2017",
+        "tender_date_formatted": "29 Aug 2017",
+        "issue_date_formatted": "04 Sep 2017",
+        "maturity_date_formatted": "01 Sep 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17090X&issue_date=2017-09-04",
+        "savings_bond_code": "SBSEP17",
+        "last_updated_at": "2017-08-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX17100A",
@@ -401,7 +665,18 @@
         "tender_date": "2017-09-27",
         "issue_date": "2017-10-02",
         "flag": "Y",
-        "maturity_date": "2027-10-01"
+        "maturity_date": "2027-10-01",
+        "ann_date_formatted": "04 Sep 2017",
+        "last_day_to_apply_formatted": "26 Sep 2017",
+        "tender_date_formatted": "27 Sep 2017",
+        "issue_date_formatted": "02 Oct 2017",
+        "maturity_date_formatted": "01 Oct 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17100A&issue_date=2017-10-02",
+        "savings_bond_code": "SBOCT17",
+        "last_updated_at": "2017-09-04T00:00:00.000Z"
       },
       {
         "issue_code": "GX17110S",
@@ -417,7 +692,18 @@
         "tender_date": "2017-10-27",
         "issue_date": "2017-11-01",
         "flag": "Y",
-        "maturity_date": "2027-11-01"
+        "maturity_date": "2027-11-01",
+        "ann_date_formatted": "02 Oct 2017",
+        "last_day_to_apply_formatted": "26 Oct 2017",
+        "tender_date_formatted": "27 Oct 2017",
+        "issue_date_formatted": "01 Nov 2017",
+        "maturity_date_formatted": "01 Nov 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17110S&issue_date=2017-11-01",
+        "savings_bond_code": "SBNOV17",
+        "last_updated_at": "2017-10-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX17120W",
@@ -433,7 +719,18 @@
         "tender_date": "2017-11-28",
         "issue_date": "2017-12-01",
         "flag": "Y",
-        "maturity_date": "2027-12-01"
+        "maturity_date": "2027-12-01",
+        "ann_date_formatted": "01 Nov 2017",
+        "last_day_to_apply_formatted": "27 Nov 2017",
+        "tender_date_formatted": "28 Nov 2017",
+        "issue_date_formatted": "01 Dec 2017",
+        "maturity_date_formatted": "01 Dec 2027",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX17120W&issue_date=2017-12-01",
+        "savings_bond_code": "SBDEC17",
+        "last_updated_at": "2017-11-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX18010X",
@@ -449,7 +746,18 @@
         "tender_date": "2017-12-27",
         "issue_date": "2018-01-02",
         "flag": "Y",
-        "maturity_date": "2028-01-01"
+        "maturity_date": "2028-01-01",
+        "ann_date_formatted": "01 Dec 2017",
+        "last_day_to_apply_formatted": "26 Dec 2017",
+        "tender_date_formatted": "27 Dec 2017",
+        "issue_date_formatted": "02 Jan 2018",
+        "maturity_date_formatted": "01 Jan 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18010X&issue_date=2018-01-02",
+        "savings_bond_code": "SBJAN18",
+        "last_updated_at": "2017-12-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX18020A",
@@ -465,7 +773,18 @@
         "tender_date": "2018-01-29",
         "issue_date": "2018-02-01",
         "flag": "Y",
-        "maturity_date": "2028-02-01"
+        "maturity_date": "2028-02-01",
+        "ann_date_formatted": "02 Jan 2018",
+        "last_day_to_apply_formatted": "26 Jan 2018",
+        "tender_date_formatted": "29 Jan 2018",
+        "issue_date_formatted": "01 Feb 2018",
+        "maturity_date_formatted": "01 Feb 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18020A&issue_date=2018-02-01",
+        "savings_bond_code": "SBFEB18",
+        "last_updated_at": "2018-01-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX18030S",
@@ -481,7 +800,18 @@
         "tender_date": "2018-02-26",
         "issue_date": "2018-03-01",
         "flag": "Y",
-        "maturity_date": "2028-03-01"
+        "maturity_date": "2028-03-01",
+        "ann_date_formatted": "01 Feb 2018",
+        "last_day_to_apply_formatted": "23 Feb 2018",
+        "tender_date_formatted": "26 Feb 2018",
+        "issue_date_formatted": "01 Mar 2018",
+        "maturity_date_formatted": "01 Mar 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18030S&issue_date=2018-03-01",
+        "savings_bond_code": "SBMAR18",
+        "last_updated_at": "2018-02-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX18040W",
@@ -497,7 +827,18 @@
         "tender_date": "2018-03-27",
         "issue_date": "2018-04-02",
         "flag": "Y",
-        "maturity_date": "2028-04-01"
+        "maturity_date": "2028-04-01",
+        "ann_date_formatted": "01 Mar 2018",
+        "last_day_to_apply_formatted": "26 Mar 2018",
+        "tender_date_formatted": "27 Mar 2018",
+        "issue_date_formatted": "02 Apr 2018",
+        "maturity_date_formatted": "01 Apr 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18040W&issue_date=2018-04-02",
+        "savings_bond_code": "SBAPR18",
+        "last_updated_at": "2018-03-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX18050E",
@@ -513,7 +854,18 @@
         "tender_date": "2018-04-26",
         "issue_date": "2018-05-02",
         "flag": "Y",
-        "maturity_date": "2028-05-01"
+        "maturity_date": "2028-05-01",
+        "ann_date_formatted": "02 Apr 2018",
+        "last_day_to_apply_formatted": "25 Apr 2018",
+        "tender_date_formatted": "26 Apr 2018",
+        "issue_date_formatted": "02 May 2018",
+        "maturity_date_formatted": "01 May 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18050E&issue_date=2018-05-02",
+        "savings_bond_code": "SBMAY18",
+        "last_updated_at": "2018-04-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX18060H",
@@ -529,7 +881,18 @@
         "tender_date": "2018-05-28",
         "issue_date": "2018-06-01",
         "flag": "Y",
-        "maturity_date": "2028-06-01"
+        "maturity_date": "2028-06-01",
+        "ann_date_formatted": "02 May 2018",
+        "last_day_to_apply_formatted": "25 May 2018",
+        "tender_date_formatted": "28 May 2018",
+        "issue_date_formatted": "01 Jun 2018",
+        "maturity_date_formatted": "01 Jun 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18060H&issue_date=2018-06-01",
+        "savings_bond_code": "SBJUN18",
+        "last_updated_at": "2018-05-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX18070N",
@@ -545,7 +908,18 @@
         "tender_date": "2018-06-27",
         "issue_date": "2018-07-02",
         "flag": "Y",
-        "maturity_date": "2028-07-01"
+        "maturity_date": "2028-07-01",
+        "ann_date_formatted": "01 Jun 2018",
+        "last_day_to_apply_formatted": "26 Jun 2018",
+        "tender_date_formatted": "27 Jun 2018",
+        "issue_date_formatted": "02 Jul 2018",
+        "maturity_date_formatted": "01 Jul 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18070N&issue_date=2018-07-02",
+        "savings_bond_code": "SBJUL18",
+        "last_updated_at": "2018-06-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX18080F",
@@ -561,7 +935,18 @@
         "tender_date": "2018-07-27",
         "issue_date": "2018-08-01",
         "flag": "Y",
-        "maturity_date": "2028-08-01"
+        "maturity_date": "2028-08-01",
+        "ann_date_formatted": "02 Jul 2018",
+        "last_day_to_apply_formatted": "26 Jul 2018",
+        "tender_date_formatted": "27 Jul 2018",
+        "issue_date_formatted": "01 Aug 2018",
+        "maturity_date_formatted": "01 Aug 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18080F&issue_date=2018-08-01",
+        "savings_bond_code": "SBAUG18",
+        "last_updated_at": "2018-07-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX18090T",
@@ -577,7 +962,18 @@
         "tender_date": "2018-08-29",
         "issue_date": "2018-09-03",
         "flag": "Y",
-        "maturity_date": "2028-09-01"
+        "maturity_date": "2028-09-01",
+        "ann_date_formatted": "01 Aug 2018",
+        "last_day_to_apply_formatted": "28 Aug 2018",
+        "tender_date_formatted": "29 Aug 2018",
+        "issue_date_formatted": "03 Sep 2018",
+        "maturity_date_formatted": "01 Sep 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18090T&issue_date=2018-09-03",
+        "savings_bond_code": "SBSEP18",
+        "last_updated_at": "2018-08-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX18100V",
@@ -593,7 +989,18 @@
         "tender_date": "2018-09-26",
         "issue_date": "2018-10-01",
         "flag": "Y",
-        "maturity_date": "2028-10-01"
+        "maturity_date": "2028-10-01",
+        "ann_date_formatted": "03 Sep 2018",
+        "last_day_to_apply_formatted": "25 Sep 2018",
+        "tender_date_formatted": "26 Sep 2018",
+        "issue_date_formatted": "01 Oct 2018",
+        "maturity_date_formatted": "01 Oct 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18100V&issue_date=2018-10-01",
+        "savings_bond_code": "SBOCT18",
+        "last_updated_at": "2018-09-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX18110Z",
@@ -609,7 +1016,18 @@
         "tender_date": "2018-10-29",
         "issue_date": "2018-11-01",
         "flag": "Y",
-        "maturity_date": "2028-11-01"
+        "maturity_date": "2028-11-01",
+        "ann_date_formatted": "01 Oct 2018",
+        "last_day_to_apply_formatted": "26 Oct 2018",
+        "tender_date_formatted": "29 Oct 2018",
+        "issue_date_formatted": "01 Nov 2018",
+        "maturity_date_formatted": "01 Nov 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18110Z&issue_date=2018-11-01",
+        "savings_bond_code": "SBNOV18",
+        "last_updated_at": "2018-10-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX18120X",
@@ -625,7 +1043,18 @@
         "tender_date": "2018-11-28",
         "issue_date": "2018-12-03",
         "flag": "Y",
-        "maturity_date": "2028-12-01"
+        "maturity_date": "2028-12-01",
+        "ann_date_formatted": "01 Nov 2018",
+        "last_day_to_apply_formatted": "27 Nov 2018",
+        "tender_date_formatted": "28 Nov 2018",
+        "issue_date_formatted": "03 Dec 2018",
+        "maturity_date_formatted": "01 Dec 2028",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX18120X&issue_date=2018-12-03",
+        "savings_bond_code": "SBDEC18",
+        "last_updated_at": "2018-11-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX19010T",
@@ -641,7 +1070,18 @@
         "tender_date": "2018-12-27",
         "issue_date": "2019-01-02",
         "flag": "Y",
-        "maturity_date": "2029-01-01"
+        "maturity_date": "2029-01-01",
+        "ann_date_formatted": "03 Dec 2018",
+        "last_day_to_apply_formatted": "26 Dec 2018",
+        "tender_date_formatted": "27 Dec 2018",
+        "issue_date_formatted": "02 Jan 2019",
+        "maturity_date_formatted": "01 Jan 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19010T&issue_date=2019-01-02",
+        "savings_bond_code": "SBJAN19",
+        "last_updated_at": "2018-12-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX19020V",
@@ -657,7 +1097,18 @@
         "tender_date": "2019-01-29",
         "issue_date": "2019-02-01",
         "flag": "Y",
-        "maturity_date": "2029-02-01"
+        "maturity_date": "2029-02-01",
+        "ann_date_formatted": "02 Jan 2019",
+        "last_day_to_apply_formatted": "28 Jan 2019",
+        "tender_date_formatted": "29 Jan 2019",
+        "issue_date_formatted": "01 Feb 2019",
+        "maturity_date_formatted": "01 Feb 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19020V&issue_date=2019-02-01",
+        "savings_bond_code": "SBFEB19",
+        "last_updated_at": "2019-01-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX19030Z",
@@ -673,7 +1124,18 @@
         "tender_date": "2019-02-26",
         "issue_date": "2019-03-01",
         "flag": "Y",
-        "maturity_date": "2029-03-01"
+        "maturity_date": "2029-03-01",
+        "ann_date_formatted": "01 Feb 2019",
+        "last_day_to_apply_formatted": "25 Feb 2019",
+        "tender_date_formatted": "26 Feb 2019",
+        "issue_date_formatted": "01 Mar 2019",
+        "maturity_date_formatted": "01 Mar 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19030Z&issue_date=2019-03-01",
+        "savings_bond_code": "SBMAR19",
+        "last_updated_at": "2019-02-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX19040X",
@@ -689,7 +1151,18 @@
         "tender_date": "2019-03-27",
         "issue_date": "2019-04-01",
         "flag": "Y",
-        "maturity_date": "2029-04-01"
+        "maturity_date": "2029-04-01",
+        "ann_date_formatted": "01 Mar 2019",
+        "last_day_to_apply_formatted": "26 Mar 2019",
+        "tender_date_formatted": "27 Mar 2019",
+        "issue_date_formatted": "01 Apr 2019",
+        "maturity_date_formatted": "01 Apr 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19040X&issue_date=2019-04-01",
+        "savings_bond_code": "SBAPR19",
+        "last_updated_at": "2019-03-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX19050A",
@@ -705,7 +1178,18 @@
         "tender_date": "2019-04-26",
         "issue_date": "2019-05-02",
         "flag": "Y",
-        "maturity_date": "2029-05-01"
+        "maturity_date": "2029-05-01",
+        "ann_date_formatted": "01 Apr 2019",
+        "last_day_to_apply_formatted": "25 Apr 2019",
+        "tender_date_formatted": "26 Apr 2019",
+        "issue_date_formatted": "02 May 2019",
+        "maturity_date_formatted": "01 May 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19050A&issue_date=2019-05-02",
+        "savings_bond_code": "SBMAY19",
+        "last_updated_at": "2019-04-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX19060S",
@@ -721,7 +1205,18 @@
         "tender_date": "2019-05-29",
         "issue_date": "2019-06-03",
         "flag": "Y",
-        "maturity_date": "2029-06-01"
+        "maturity_date": "2029-06-01",
+        "ann_date_formatted": "02 May 2019",
+        "last_day_to_apply_formatted": "28 May 2019",
+        "tender_date_formatted": "29 May 2019",
+        "issue_date_formatted": "03 Jun 2019",
+        "maturity_date_formatted": "01 Jun 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19060S&issue_date=2019-06-03",
+        "savings_bond_code": "SBJUN19",
+        "last_updated_at": "2019-05-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX19070W",
@@ -737,7 +1232,18 @@
         "tender_date": "2019-06-26",
         "issue_date": "2019-07-01",
         "flag": "Y",
-        "maturity_date": "2029-07-01"
+        "maturity_date": "2029-07-01",
+        "ann_date_formatted": "03 Jun 2019",
+        "last_day_to_apply_formatted": "25 Jun 2019",
+        "tender_date_formatted": "26 Jun 2019",
+        "issue_date_formatted": "01 Jul 2019",
+        "maturity_date_formatted": "01 Jul 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19070W&issue_date=2019-07-01",
+        "savings_bond_code": "SBJUL19",
+        "last_updated_at": "2019-06-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX19080E",
@@ -753,7 +1259,18 @@
         "tender_date": "2019-07-29",
         "issue_date": "2019-08-01",
         "flag": "Y",
-        "maturity_date": "2029-08-01"
+        "maturity_date": "2029-08-01",
+        "ann_date_formatted": "01 Jul 2019",
+        "last_day_to_apply_formatted": "26 Jul 2019",
+        "tender_date_formatted": "29 Jul 2019",
+        "issue_date_formatted": "01 Aug 2019",
+        "maturity_date_formatted": "01 Aug 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19080E&issue_date=2019-08-01",
+        "savings_bond_code": "SBAUG19",
+        "last_updated_at": "2019-07-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX19090H",
@@ -769,7 +1286,18 @@
         "tender_date": "2019-08-28",
         "issue_date": "2019-09-02",
         "flag": "Y",
-        "maturity_date": "2029-09-01"
+        "maturity_date": "2029-09-01",
+        "ann_date_formatted": "01 Aug 2019",
+        "last_day_to_apply_formatted": "27 Aug 2019",
+        "tender_date_formatted": "28 Aug 2019",
+        "issue_date_formatted": "02 Sep 2019",
+        "maturity_date_formatted": "01 Sep 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19090H&issue_date=2019-09-02",
+        "savings_bond_code": "SBSEP19",
+        "last_updated_at": "2019-08-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX19100N",
@@ -785,7 +1313,18 @@
         "tender_date": "2019-09-26",
         "issue_date": "2019-10-01",
         "flag": "Y",
-        "maturity_date": "2029-10-01"
+        "maturity_date": "2029-10-01",
+        "ann_date_formatted": "02 Sep 2019",
+        "last_day_to_apply_formatted": "25 Sep 2019",
+        "tender_date_formatted": "26 Sep 2019",
+        "issue_date_formatted": "01 Oct 2019",
+        "maturity_date_formatted": "01 Oct 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19100N&issue_date=2019-10-01",
+        "savings_bond_code": "SBOCT19",
+        "last_updated_at": "2019-09-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX19110F",
@@ -801,7 +1340,18 @@
         "tender_date": "2019-10-29",
         "issue_date": "2019-11-01",
         "flag": "Y",
-        "maturity_date": "2029-11-01"
+        "maturity_date": "2029-11-01",
+        "ann_date_formatted": "01 Oct 2019",
+        "last_day_to_apply_formatted": "25 Oct 2019",
+        "tender_date_formatted": "29 Oct 2019",
+        "issue_date_formatted": "01 Nov 2019",
+        "maturity_date_formatted": "01 Nov 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19110F&issue_date=2019-11-01",
+        "savings_bond_code": "SBNOV19",
+        "last_updated_at": "2019-10-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX19120T",
@@ -817,7 +1367,18 @@
         "tender_date": "2019-11-27",
         "issue_date": "2019-12-02",
         "flag": "Y",
-        "maturity_date": "2029-12-01"
+        "maturity_date": "2029-12-01",
+        "ann_date_formatted": "01 Nov 2019",
+        "last_day_to_apply_formatted": "26 Nov 2019",
+        "tender_date_formatted": "27 Nov 2019",
+        "issue_date_formatted": "02 Dec 2019",
+        "maturity_date_formatted": "01 Dec 2029",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX19120T&issue_date=2019-12-02",
+        "savings_bond_code": "SBDEC19",
+        "last_updated_at": "2019-11-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX20010T",
@@ -833,7 +1394,18 @@
         "tender_date": "2019-12-27",
         "issue_date": "2020-01-02",
         "flag": "Y",
-        "maturity_date": "2030-01-01"
+        "maturity_date": "2030-01-01",
+        "ann_date_formatted": "02 Dec 2019",
+        "last_day_to_apply_formatted": "26 Dec 2019",
+        "tender_date_formatted": "27 Dec 2019",
+        "issue_date_formatted": "02 Jan 2020",
+        "maturity_date_formatted": "01 Jan 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20010T&issue_date=2020-01-02",
+        "savings_bond_code": "SBJAN20",
+        "last_updated_at": "2019-12-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX20020V",
@@ -849,7 +1421,18 @@
         "tender_date": "2020-01-29",
         "issue_date": "2020-02-03",
         "flag": "Y",
-        "maturity_date": "2030-02-01"
+        "maturity_date": "2030-02-01",
+        "ann_date_formatted": "02 Jan 2020",
+        "last_day_to_apply_formatted": "28 Jan 2020",
+        "tender_date_formatted": "29 Jan 2020",
+        "issue_date_formatted": "03 Feb 2020",
+        "maturity_date_formatted": "01 Feb 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20020V&issue_date=2020-02-03",
+        "savings_bond_code": "SBFEB20",
+        "last_updated_at": "2020-01-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX20030Z",
@@ -865,7 +1448,18 @@
         "tender_date": "2020-02-26",
         "issue_date": "2020-03-02",
         "flag": "Y",
-        "maturity_date": "2030-03-01"
+        "maturity_date": "2030-03-01",
+        "ann_date_formatted": "03 Feb 2020",
+        "last_day_to_apply_formatted": "25 Feb 2020",
+        "tender_date_formatted": "26 Feb 2020",
+        "issue_date_formatted": "02 Mar 2020",
+        "maturity_date_formatted": "01 Mar 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20030Z&issue_date=2020-03-02",
+        "savings_bond_code": "SBMAR20",
+        "last_updated_at": "2020-02-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX20040X",
@@ -881,7 +1475,18 @@
         "tender_date": "2020-03-27",
         "issue_date": "2020-04-01",
         "flag": "Y",
-        "maturity_date": "2030-04-01"
+        "maturity_date": "2030-04-01",
+        "ann_date_formatted": "02 Mar 2020",
+        "last_day_to_apply_formatted": "26 Mar 2020",
+        "tender_date_formatted": "27 Mar 2020",
+        "issue_date_formatted": "01 Apr 2020",
+        "maturity_date_formatted": "01 Apr 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20040X&issue_date=2020-04-01",
+        "savings_bond_code": "SBAPR20",
+        "last_updated_at": "2020-03-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX20050A",
@@ -897,7 +1502,18 @@
         "tender_date": "2020-04-28",
         "issue_date": "2020-05-04",
         "flag": "Y",
-        "maturity_date": "2030-05-01"
+        "maturity_date": "2030-05-01",
+        "ann_date_formatted": "01 Apr 2020",
+        "last_day_to_apply_formatted": "27 Apr 2020",
+        "tender_date_formatted": "28 Apr 2020",
+        "issue_date_formatted": "04 May 2020",
+        "maturity_date_formatted": "01 May 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20050A&issue_date=2020-05-04",
+        "savings_bond_code": "SBMAY20",
+        "last_updated_at": "2020-04-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX20060S",
@@ -913,7 +1529,18 @@
         "tender_date": "2020-05-27",
         "issue_date": "2020-06-01",
         "flag": "Y",
-        "maturity_date": "2030-06-01"
+        "maturity_date": "2030-06-01",
+        "ann_date_formatted": "04 May 2020",
+        "last_day_to_apply_formatted": "26 May 2020",
+        "tender_date_formatted": "27 May 2020",
+        "issue_date_formatted": "01 Jun 2020",
+        "maturity_date_formatted": "01 Jun 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20060S&issue_date=2020-06-01",
+        "savings_bond_code": "SBJUN20",
+        "last_updated_at": "2020-05-04T00:00:00.000Z"
       },
       {
         "issue_code": "GX20070W",
@@ -929,7 +1556,18 @@
         "tender_date": "2020-06-26",
         "issue_date": "2020-07-01",
         "flag": "Y",
-        "maturity_date": "2030-07-01"
+        "maturity_date": "2030-07-01",
+        "ann_date_formatted": "01 Jun 2020",
+        "last_day_to_apply_formatted": "25 Jun 2020",
+        "tender_date_formatted": "26 Jun 2020",
+        "issue_date_formatted": "01 Jul 2020",
+        "maturity_date_formatted": "01 Jul 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20070W&issue_date=2020-07-01",
+        "savings_bond_code": "SBJUL20",
+        "last_updated_at": "2020-06-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX20080E",
@@ -945,7 +1583,18 @@
         "tender_date": "2020-07-28",
         "issue_date": "2020-08-03",
         "flag": "Y",
-        "maturity_date": "2030-08-01"
+        "maturity_date": "2030-08-01",
+        "ann_date_formatted": "01 Jul 2020",
+        "last_day_to_apply_formatted": "27 Jul 2020",
+        "tender_date_formatted": "28 Jul 2020",
+        "issue_date_formatted": "03 Aug 2020",
+        "maturity_date_formatted": "01 Aug 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20080E&issue_date=2020-08-03",
+        "savings_bond_code": "SBAUG20",
+        "last_updated_at": "2020-07-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX20090H",
@@ -961,7 +1610,18 @@
         "tender_date": "2020-08-27",
         "issue_date": "2020-09-01",
         "flag": "Y",
-        "maturity_date": "2030-09-01"
+        "maturity_date": "2030-09-01",
+        "ann_date_formatted": "03 Aug 2020",
+        "last_day_to_apply_formatted": "26 Aug 2020",
+        "tender_date_formatted": "27 Aug 2020",
+        "issue_date_formatted": "01 Sep 2020",
+        "maturity_date_formatted": "01 Sep 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20090H&issue_date=2020-09-01",
+        "savings_bond_code": "SBSEP20",
+        "last_updated_at": "2020-08-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX20100N",
@@ -977,7 +1637,18 @@
         "tender_date": "2020-09-28",
         "issue_date": "2020-10-01",
         "flag": "Y",
-        "maturity_date": "2030-10-01"
+        "maturity_date": "2030-10-01",
+        "ann_date_formatted": "01 Sep 2020",
+        "last_day_to_apply_formatted": "25 Sep 2020",
+        "tender_date_formatted": "28 Sep 2020",
+        "issue_date_formatted": "01 Oct 2020",
+        "maturity_date_formatted": "01 Oct 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20100N&issue_date=2020-10-01",
+        "savings_bond_code": "SBOCT20",
+        "last_updated_at": "2020-09-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX20110F",
@@ -993,7 +1664,18 @@
         "tender_date": "2020-10-28",
         "issue_date": "2020-11-02",
         "flag": "Y",
-        "maturity_date": "2030-11-01"
+        "maturity_date": "2030-11-01",
+        "ann_date_formatted": "01 Oct 2020",
+        "last_day_to_apply_formatted": "27 Oct 2020",
+        "tender_date_formatted": "28 Oct 2020",
+        "issue_date_formatted": "02 Nov 2020",
+        "maturity_date_formatted": "01 Nov 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20110F&issue_date=2020-11-02",
+        "savings_bond_code": "SBNOV20",
+        "last_updated_at": "2020-10-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX20120T",
@@ -1009,7 +1691,18 @@
         "tender_date": "2020-11-26",
         "issue_date": "2020-12-01",
         "flag": "Y",
-        "maturity_date": "2030-12-01"
+        "maturity_date": "2030-12-01",
+        "ann_date_formatted": "02 Nov 2020",
+        "last_day_to_apply_formatted": "25 Nov 2020",
+        "tender_date_formatted": "26 Nov 2020",
+        "issue_date_formatted": "01 Dec 2020",
+        "maturity_date_formatted": "01 Dec 2030",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX20120T&issue_date=2020-12-01",
+        "savings_bond_code": "SBDEC20",
+        "last_updated_at": "2020-11-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX21010H",
@@ -1025,7 +1718,18 @@
         "tender_date": "2020-12-29",
         "issue_date": "2021-01-04",
         "flag": "Y",
-        "maturity_date": "2031-01-01"
+        "maturity_date": "2031-01-01",
+        "ann_date_formatted": "01 Dec 2020",
+        "last_day_to_apply_formatted": "28 Dec 2020",
+        "tender_date_formatted": "29 Dec 2020",
+        "issue_date_formatted": "04 Jan 2021",
+        "maturity_date_formatted": "01 Jan 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21010H&issue_date=2021-01-04",
+        "savings_bond_code": "SBJAN21",
+        "last_updated_at": "2020-12-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX21020N",
@@ -1041,7 +1745,18 @@
         "tender_date": "2021-01-27",
         "issue_date": "2021-02-01",
         "flag": "Y",
-        "maturity_date": "2031-02-01"
+        "maturity_date": "2031-02-01",
+        "ann_date_formatted": "04 Jan 2021",
+        "last_day_to_apply_formatted": "26 Jan 2021",
+        "tender_date_formatted": "27 Jan 2021",
+        "issue_date_formatted": "01 Feb 2021",
+        "maturity_date_formatted": "01 Feb 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21020N&issue_date=2021-02-01",
+        "savings_bond_code": "SBFEB21",
+        "last_updated_at": "2021-01-04T00:00:00.000Z"
       },
       {
         "issue_code": "GX21030F",
@@ -1057,7 +1772,18 @@
         "tender_date": "2021-02-24",
         "issue_date": "2021-03-01",
         "flag": "Y",
-        "maturity_date": "2031-03-01"
+        "maturity_date": "2031-03-01",
+        "ann_date_formatted": "01 Feb 2021",
+        "last_day_to_apply_formatted": "23 Feb 2021",
+        "tender_date_formatted": "24 Feb 2021",
+        "issue_date_formatted": "01 Mar 2021",
+        "maturity_date_formatted": "01 Mar 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21030F&issue_date=2021-03-01",
+        "savings_bond_code": "SBMAR21",
+        "last_updated_at": "2021-02-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX21040T",
@@ -1073,7 +1799,18 @@
         "tender_date": "2021-03-29",
         "issue_date": "2021-04-01",
         "flag": "Y",
-        "maturity_date": "2031-04-01"
+        "maturity_date": "2031-04-01",
+        "ann_date_formatted": "01 Mar 2021",
+        "last_day_to_apply_formatted": "26 Mar 2021",
+        "tender_date_formatted": "29 Mar 2021",
+        "issue_date_formatted": "01 Apr 2021",
+        "maturity_date_formatted": "01 Apr 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21040T&issue_date=2021-04-01",
+        "savings_bond_code": "SBAPR21",
+        "last_updated_at": "2021-03-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX21050V",
@@ -1089,7 +1826,18 @@
         "tender_date": "2021-04-28",
         "issue_date": "2021-05-03",
         "flag": "Y",
-        "maturity_date": "2031-05-01"
+        "maturity_date": "2031-05-01",
+        "ann_date_formatted": "01 Apr 2021",
+        "last_day_to_apply_formatted": "27 Apr 2021",
+        "tender_date_formatted": "28 Apr 2021",
+        "issue_date_formatted": "03 May 2021",
+        "maturity_date_formatted": "01 May 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21050V&issue_date=2021-05-03",
+        "savings_bond_code": "SBMAY21",
+        "last_updated_at": "2021-04-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX21060Z",
@@ -1105,7 +1853,18 @@
         "tender_date": "2021-05-27",
         "issue_date": "2021-06-01",
         "flag": "Y",
-        "maturity_date": "2031-06-01"
+        "maturity_date": "2031-06-01",
+        "ann_date_formatted": "03 May 2021",
+        "last_day_to_apply_formatted": "25 May 2021",
+        "tender_date_formatted": "27 May 2021",
+        "issue_date_formatted": "01 Jun 2021",
+        "maturity_date_formatted": "01 Jun 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21060Z&issue_date=2021-06-01",
+        "savings_bond_code": "SBJUN21",
+        "last_updated_at": "2021-05-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX21070X",
@@ -1121,7 +1880,18 @@
         "tender_date": "2021-06-28",
         "issue_date": "2021-07-01",
         "flag": "Y",
-        "maturity_date": "2031-07-01"
+        "maturity_date": "2031-07-01",
+        "ann_date_formatted": "01 Jun 2021",
+        "last_day_to_apply_formatted": "25 Jun 2021",
+        "tender_date_formatted": "28 Jun 2021",
+        "issue_date_formatted": "01 Jul 2021",
+        "maturity_date_formatted": "01 Jul 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21070X&issue_date=2021-07-01",
+        "savings_bond_code": "SBJUL21",
+        "last_updated_at": "2021-06-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX21080A",
@@ -1137,7 +1907,18 @@
         "tender_date": "2021-07-28",
         "issue_date": "2021-08-02",
         "flag": "Y",
-        "maturity_date": "2031-08-01"
+        "maturity_date": "2031-08-01",
+        "ann_date_formatted": "01 Jul 2021",
+        "last_day_to_apply_formatted": "27 Jul 2021",
+        "tender_date_formatted": "28 Jul 2021",
+        "issue_date_formatted": "02 Aug 2021",
+        "maturity_date_formatted": "01 Aug 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21080A&issue_date=2021-08-02",
+        "savings_bond_code": "SBAUG21",
+        "last_updated_at": "2021-07-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX21090S",
@@ -1153,7 +1934,18 @@
         "tender_date": "2021-08-27",
         "issue_date": "2021-09-01",
         "flag": "Y",
-        "maturity_date": "2031-09-01"
+        "maturity_date": "2031-09-01",
+        "ann_date_formatted": "02 Aug 2021",
+        "last_day_to_apply_formatted": "26 Aug 2021",
+        "tender_date_formatted": "27 Aug 2021",
+        "issue_date_formatted": "01 Sep 2021",
+        "maturity_date_formatted": "01 Sep 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21090S&issue_date=2021-09-01",
+        "savings_bond_code": "SBSEP21",
+        "last_updated_at": "2021-08-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX21100W",
@@ -1169,7 +1961,18 @@
         "tender_date": "2021-09-28",
         "issue_date": "2021-10-01",
         "flag": "Y",
-        "maturity_date": "2031-10-01"
+        "maturity_date": "2031-10-01",
+        "ann_date_formatted": "01 Sep 2021",
+        "last_day_to_apply_formatted": "27 Sep 2021",
+        "tender_date_formatted": "28 Sep 2021",
+        "issue_date_formatted": "01 Oct 2021",
+        "maturity_date_formatted": "01 Oct 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21100W&issue_date=2021-10-01",
+        "savings_bond_code": "SBOCT21",
+        "last_updated_at": "2021-09-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX21110E",
@@ -1185,7 +1988,18 @@
         "tender_date": "2021-10-27",
         "issue_date": "2021-11-01",
         "flag": "Y",
-        "maturity_date": "2031-11-01"
+        "maturity_date": "2031-11-01",
+        "ann_date_formatted": "01 Oct 2021",
+        "last_day_to_apply_formatted": "26 Oct 2021",
+        "tender_date_formatted": "27 Oct 2021",
+        "issue_date_formatted": "01 Nov 2021",
+        "maturity_date_formatted": "01 Nov 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21110E&issue_date=2021-11-01",
+        "savings_bond_code": "SBNOV21",
+        "last_updated_at": "2021-10-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX21120H",
@@ -1201,7 +2015,18 @@
         "tender_date": "2021-11-26",
         "issue_date": "2021-12-01",
         "flag": "Y",
-        "maturity_date": "2031-12-01"
+        "maturity_date": "2031-12-01",
+        "ann_date_formatted": "01 Nov 2021",
+        "last_day_to_apply_formatted": "25 Nov 2021",
+        "tender_date_formatted": "26 Nov 2021",
+        "issue_date_formatted": "01 Dec 2021",
+        "maturity_date_formatted": "01 Dec 2031",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX21120H&issue_date=2021-12-01",
+        "savings_bond_code": "SBDEC21",
+        "last_updated_at": "2021-11-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX22010S",
@@ -1217,7 +2042,18 @@
         "tender_date": "2021-12-29",
         "issue_date": "2022-01-03",
         "flag": "Y",
-        "maturity_date": "2032-01-01"
+        "maturity_date": "2032-01-01",
+        "ann_date_formatted": "01 Dec 2021",
+        "last_day_to_apply_formatted": "28 Dec 2021",
+        "tender_date_formatted": "29 Dec 2021",
+        "issue_date_formatted": "03 Jan 2022",
+        "maturity_date_formatted": "01 Jan 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22010S&issue_date=2022-01-03",
+        "savings_bond_code": "SBJAN22",
+        "last_updated_at": "2021-12-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX22020W",
@@ -1233,7 +2069,18 @@
         "tender_date": "2022-01-27",
         "issue_date": "2022-02-03",
         "flag": "Y",
-        "maturity_date": "2032-02-01"
+        "maturity_date": "2032-02-01",
+        "ann_date_formatted": "03 Jan 2022",
+        "last_day_to_apply_formatted": "26 Jan 2022",
+        "tender_date_formatted": "27 Jan 2022",
+        "issue_date_formatted": "03 Feb 2022",
+        "maturity_date_formatted": "01 Feb 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22020W&issue_date=2022-02-03",
+        "savings_bond_code": "SBFEB22",
+        "last_updated_at": "2022-01-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX22030E",
@@ -1249,7 +2096,18 @@
         "tender_date": "2022-02-24",
         "issue_date": "2022-03-01",
         "flag": "Y",
-        "maturity_date": "2032-03-01"
+        "maturity_date": "2032-03-01",
+        "ann_date_formatted": "03 Feb 2022",
+        "last_day_to_apply_formatted": "23 Feb 2022",
+        "tender_date_formatted": "24 Feb 2022",
+        "issue_date_formatted": "01 Mar 2022",
+        "maturity_date_formatted": "01 Mar 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22030E&issue_date=2022-03-01",
+        "savings_bond_code": "SBMAR22",
+        "last_updated_at": "2022-02-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX22040H",
@@ -1265,7 +2123,18 @@
         "tender_date": "2022-03-29",
         "issue_date": "2022-04-01",
         "flag": "Y",
-        "maturity_date": "2032-04-01"
+        "maturity_date": "2032-04-01",
+        "ann_date_formatted": "01 Mar 2022",
+        "last_day_to_apply_formatted": "28 Mar 2022",
+        "tender_date_formatted": "29 Mar 2022",
+        "issue_date_formatted": "01 Apr 2022",
+        "maturity_date_formatted": "01 Apr 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22040H&issue_date=2022-04-01",
+        "savings_bond_code": "SBAPR22",
+        "last_updated_at": "2022-03-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX22050N",
@@ -1281,7 +2150,18 @@
         "tender_date": "2022-04-27",
         "issue_date": "2022-05-04",
         "flag": "Y",
-        "maturity_date": "2032-05-01"
+        "maturity_date": "2032-05-01",
+        "ann_date_formatted": "01 Apr 2022",
+        "last_day_to_apply_formatted": "26 Apr 2022",
+        "tender_date_formatted": "27 Apr 2022",
+        "issue_date_formatted": "04 May 2022",
+        "maturity_date_formatted": "01 May 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22050N&issue_date=2022-05-04",
+        "savings_bond_code": "SBMAY22",
+        "last_updated_at": "2022-04-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX22060F",
@@ -1297,7 +2177,18 @@
         "tender_date": "2022-05-27",
         "issue_date": "2022-06-01",
         "flag": "Y",
-        "maturity_date": "2032-06-01"
+        "maturity_date": "2032-06-01",
+        "ann_date_formatted": "04 May 2022",
+        "last_day_to_apply_formatted": "26 May 2022",
+        "tender_date_formatted": "27 May 2022",
+        "issue_date_formatted": "01 Jun 2022",
+        "maturity_date_formatted": "01 Jun 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22060F&issue_date=2022-06-01",
+        "savings_bond_code": "SBJUN22",
+        "last_updated_at": "2022-05-04T00:00:00.000Z"
       },
       {
         "issue_code": "GX22070T",
@@ -1313,7 +2204,18 @@
         "tender_date": "2022-06-28",
         "issue_date": "2022-07-01",
         "flag": "Y",
-        "maturity_date": "2032-07-01"
+        "maturity_date": "2032-07-01",
+        "ann_date_formatted": "01 Jun 2022",
+        "last_day_to_apply_formatted": "27 Jun 2022",
+        "tender_date_formatted": "28 Jun 2022",
+        "issue_date_formatted": "01 Jul 2022",
+        "maturity_date_formatted": "01 Jul 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22070T&issue_date=2022-07-01",
+        "savings_bond_code": "SBJUL22",
+        "last_updated_at": "2022-06-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX22080V",
@@ -1329,7 +2231,18 @@
         "tender_date": "2022-07-27",
         "issue_date": "2022-08-01",
         "flag": "Y",
-        "maturity_date": "2032-08-01"
+        "maturity_date": "2032-08-01",
+        "ann_date_formatted": "01 Jul 2022",
+        "last_day_to_apply_formatted": "26 Jul 2022",
+        "tender_date_formatted": "27 Jul 2022",
+        "issue_date_formatted": "01 Aug 2022",
+        "maturity_date_formatted": "01 Aug 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22080V&issue_date=2022-08-01",
+        "savings_bond_code": "SBAUG22",
+        "last_updated_at": "2022-07-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX22090Z",
@@ -1345,7 +2258,18 @@
         "tender_date": "2022-08-29",
         "issue_date": "2022-09-01",
         "flag": "Y",
-        "maturity_date": "2032-09-01"
+        "maturity_date": "2032-09-01",
+        "ann_date_formatted": "01 Aug 2022",
+        "last_day_to_apply_formatted": "26 Aug 2022",
+        "tender_date_formatted": "29 Aug 2022",
+        "issue_date_formatted": "01 Sep 2022",
+        "maturity_date_formatted": "01 Sep 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22090Z&issue_date=2022-09-01",
+        "savings_bond_code": "SBSEP22",
+        "last_updated_at": "2022-08-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX22100X",
@@ -1361,7 +2285,18 @@
         "tender_date": "2022-09-28",
         "issue_date": "2022-10-03",
         "flag": "Y",
-        "maturity_date": "2032-10-01"
+        "maturity_date": "2032-10-01",
+        "ann_date_formatted": "01 Sep 2022",
+        "last_day_to_apply_formatted": "27 Sep 2022",
+        "tender_date_formatted": "28 Sep 2022",
+        "issue_date_formatted": "03 Oct 2022",
+        "maturity_date_formatted": "01 Oct 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22100X&issue_date=2022-10-03",
+        "savings_bond_code": "SBOCT22",
+        "last_updated_at": "2022-09-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX22110A",
@@ -1377,7 +2312,18 @@
         "tender_date": "2022-10-27",
         "issue_date": "2022-11-01",
         "flag": "Y",
-        "maturity_date": "2032-11-01"
+        "maturity_date": "2032-11-01",
+        "ann_date_formatted": "03 Oct 2022",
+        "last_day_to_apply_formatted": "26 Oct 2022",
+        "tender_date_formatted": "27 Oct 2022",
+        "issue_date_formatted": "01 Nov 2022",
+        "maturity_date_formatted": "01 Nov 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22110A&issue_date=2022-11-01",
+        "savings_bond_code": "SBNOV22",
+        "last_updated_at": "2022-10-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX22120S",
@@ -1393,7 +2339,18 @@
         "tender_date": "2022-11-28",
         "issue_date": "2022-12-01",
         "flag": "Y",
-        "maturity_date": "2032-12-01"
+        "maturity_date": "2032-12-01",
+        "ann_date_formatted": "01 Nov 2022",
+        "last_day_to_apply_formatted": "25 Nov 2022",
+        "tender_date_formatted": "28 Nov 2022",
+        "issue_date_formatted": "01 Dec 2022",
+        "maturity_date_formatted": "01 Dec 2032",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX22120S&issue_date=2022-12-01",
+        "savings_bond_code": "SBDEC22",
+        "last_updated_at": "2022-11-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX23010Z",
@@ -1409,7 +2366,18 @@
         "tender_date": "2022-12-28",
         "issue_date": "2023-01-03",
         "flag": "Y",
-        "maturity_date": "2033-01-01"
+        "maturity_date": "2033-01-01",
+        "ann_date_formatted": "01 Dec 2022",
+        "last_day_to_apply_formatted": "27 Dec 2022",
+        "tender_date_formatted": "28 Dec 2022",
+        "issue_date_formatted": "03 Jan 2023",
+        "maturity_date_formatted": "01 Jan 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23010Z&issue_date=2023-01-03",
+        "savings_bond_code": "SBJAN23",
+        "last_updated_at": "2022-12-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX23020X",
@@ -1425,7 +2393,18 @@
         "tender_date": "2023-01-27",
         "issue_date": "2023-02-01",
         "flag": "Y",
-        "maturity_date": "2033-02-01"
+        "maturity_date": "2033-02-01",
+        "ann_date_formatted": "03 Jan 2023",
+        "last_day_to_apply_formatted": "26 Jan 2023",
+        "tender_date_formatted": "27 Jan 2023",
+        "issue_date_formatted": "01 Feb 2023",
+        "maturity_date_formatted": "01 Feb 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23020X&issue_date=2023-02-01",
+        "savings_bond_code": "SBFEB23",
+        "last_updated_at": "2023-01-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX23030A",
@@ -1441,7 +2420,18 @@
         "tender_date": "2023-02-24",
         "issue_date": "2023-03-01",
         "flag": "Y",
-        "maturity_date": "2033-03-01"
+        "maturity_date": "2033-03-01",
+        "ann_date_formatted": "01 Feb 2023",
+        "last_day_to_apply_formatted": "23 Feb 2023",
+        "tender_date_formatted": "24 Feb 2023",
+        "issue_date_formatted": "01 Mar 2023",
+        "maturity_date_formatted": "01 Mar 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23030A&issue_date=2023-03-01",
+        "savings_bond_code": "SBMAR23",
+        "last_updated_at": "2023-02-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX23040S",
@@ -1457,7 +2447,18 @@
         "tender_date": "2023-03-29",
         "issue_date": "2023-04-03",
         "flag": "Y",
-        "maturity_date": "2033-04-01"
+        "maturity_date": "2033-04-01",
+        "ann_date_formatted": "01 Mar 2023",
+        "last_day_to_apply_formatted": "28 Mar 2023",
+        "tender_date_formatted": "29 Mar 2023",
+        "issue_date_formatted": "03 Apr 2023",
+        "maturity_date_formatted": "01 Apr 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23040S&issue_date=2023-04-03",
+        "savings_bond_code": "SBAPR23",
+        "last_updated_at": "2023-03-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX23050W",
@@ -1473,7 +2474,18 @@
         "tender_date": "2023-04-26",
         "issue_date": "2023-05-02",
         "flag": "Y",
-        "maturity_date": "2033-05-01"
+        "maturity_date": "2033-05-01",
+        "ann_date_formatted": "03 Apr 2023",
+        "last_day_to_apply_formatted": "25 Apr 2023",
+        "tender_date_formatted": "26 Apr 2023",
+        "issue_date_formatted": "02 May 2023",
+        "maturity_date_formatted": "01 May 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23050W&issue_date=2023-05-02",
+        "savings_bond_code": "SBMAY23",
+        "last_updated_at": "2023-04-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX23060E",
@@ -1489,7 +2501,18 @@
         "tender_date": "2023-05-29",
         "issue_date": "2023-06-01",
         "flag": "Y",
-        "maturity_date": "2033-06-01"
+        "maturity_date": "2033-06-01",
+        "ann_date_formatted": "02 May 2023",
+        "last_day_to_apply_formatted": "26 May 2023",
+        "tender_date_formatted": "29 May 2023",
+        "issue_date_formatted": "01 Jun 2023",
+        "maturity_date_formatted": "01 Jun 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23060E&issue_date=2023-06-01",
+        "savings_bond_code": "SBJUN23",
+        "last_updated_at": "2023-05-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX23070H",
@@ -1505,7 +2528,18 @@
         "tender_date": "2023-06-27",
         "issue_date": "2023-07-03",
         "flag": "Y",
-        "maturity_date": "2033-07-01"
+        "maturity_date": "2033-07-01",
+        "ann_date_formatted": "01 Jun 2023",
+        "last_day_to_apply_formatted": "26 Jun 2023",
+        "tender_date_formatted": "27 Jun 2023",
+        "issue_date_formatted": "03 Jul 2023",
+        "maturity_date_formatted": "01 Jul 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23070H&issue_date=2023-07-03",
+        "savings_bond_code": "SBJUL23",
+        "last_updated_at": "2023-06-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX23080N",
@@ -1521,7 +2555,18 @@
         "tender_date": "2023-07-27",
         "issue_date": "2023-08-01",
         "flag": "Y",
-        "maturity_date": "2033-08-01"
+        "maturity_date": "2033-08-01",
+        "ann_date_formatted": "03 Jul 2023",
+        "last_day_to_apply_formatted": "26 Jul 2023",
+        "tender_date_formatted": "27 Jul 2023",
+        "issue_date_formatted": "01 Aug 2023",
+        "maturity_date_formatted": "01 Aug 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23080N&issue_date=2023-08-01",
+        "savings_bond_code": "SBAUG23",
+        "last_updated_at": "2023-07-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX23090F",
@@ -1537,7 +2582,18 @@
         "tender_date": "2023-08-29",
         "issue_date": "2023-09-01",
         "flag": "Y",
-        "maturity_date": "2033-09-01"
+        "maturity_date": "2033-09-01",
+        "ann_date_formatted": "01 Aug 2023",
+        "last_day_to_apply_formatted": "28 Aug 2023",
+        "tender_date_formatted": "29 Aug 2023",
+        "issue_date_formatted": "01 Sep 2023",
+        "maturity_date_formatted": "01 Sep 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23090F&issue_date=2023-09-01",
+        "savings_bond_code": "SBSEP23",
+        "last_updated_at": "2023-08-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX23100T",
@@ -1553,7 +2609,18 @@
         "tender_date": "2023-09-27",
         "issue_date": "2023-10-02",
         "flag": "Y",
-        "maturity_date": "2033-10-01"
+        "maturity_date": "2033-10-01",
+        "ann_date_formatted": "04 Sep 2023",
+        "last_day_to_apply_formatted": "26 Sep 2023",
+        "tender_date_formatted": "27 Sep 2023",
+        "issue_date_formatted": "02 Oct 2023",
+        "maturity_date_formatted": "01 Oct 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23100T&issue_date=2023-10-02",
+        "savings_bond_code": "SBOCT23",
+        "last_updated_at": "2023-09-04T00:00:00.000Z"
       },
       {
         "issue_code": "GX23110V",
@@ -1569,7 +2636,18 @@
         "tender_date": "2023-10-27",
         "issue_date": "2023-11-01",
         "flag": "Y",
-        "maturity_date": "2033-11-01"
+        "maturity_date": "2033-11-01",
+        "ann_date_formatted": "02 Oct 2023",
+        "last_day_to_apply_formatted": "26 Oct 2023",
+        "tender_date_formatted": "27 Oct 2023",
+        "issue_date_formatted": "01 Nov 2023",
+        "maturity_date_formatted": "01 Nov 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23110V&issue_date=2023-11-01",
+        "savings_bond_code": "SBNOV23",
+        "last_updated_at": "2023-10-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX23120Z",
@@ -1585,7 +2663,18 @@
         "tender_date": "2023-11-28",
         "issue_date": "2023-12-01",
         "flag": "Y",
-        "maturity_date": "2033-12-01"
+        "maturity_date": "2033-12-01",
+        "ann_date_formatted": "01 Nov 2023",
+        "last_day_to_apply_formatted": "27 Nov 2023",
+        "tender_date_formatted": "28 Nov 2023",
+        "issue_date_formatted": "01 Dec 2023",
+        "maturity_date_formatted": "01 Dec 2033",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX23120Z&issue_date=2023-12-01",
+        "savings_bond_code": "SBDEC23",
+        "last_updated_at": "2023-11-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX24010F",
@@ -1601,7 +2690,18 @@
         "tender_date": "2023-12-27",
         "issue_date": "2024-01-02",
         "flag": "Y",
-        "maturity_date": "2034-01-01"
+        "maturity_date": "2034-01-01",
+        "ann_date_formatted": "01 Dec 2023",
+        "last_day_to_apply_formatted": "26 Dec 2023",
+        "tender_date_formatted": "27 Dec 2023",
+        "issue_date_formatted": "02 Jan 2024",
+        "maturity_date_formatted": "01 Jan 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24010F&issue_date=2024-01-02",
+        "savings_bond_code": "SBJAN24",
+        "last_updated_at": "2023-12-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX24020T",
@@ -1617,7 +2717,18 @@
         "tender_date": "2024-01-29",
         "issue_date": "2024-02-01",
         "flag": "Y",
-        "maturity_date": "2034-02-01"
+        "maturity_date": "2034-02-01",
+        "ann_date_formatted": "02 Jan 2024",
+        "last_day_to_apply_formatted": "26 Jan 2024",
+        "tender_date_formatted": "29 Jan 2024",
+        "issue_date_formatted": "01 Feb 2024",
+        "maturity_date_formatted": "01 Feb 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24020T&issue_date=2024-02-01",
+        "savings_bond_code": "SBFEB24",
+        "last_updated_at": "2024-01-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX24030V",
@@ -1633,7 +2744,18 @@
         "tender_date": "2024-02-27",
         "issue_date": "2024-03-01",
         "flag": "Y",
-        "maturity_date": "2034-03-01"
+        "maturity_date": "2034-03-01",
+        "ann_date_formatted": "01 Feb 2024",
+        "last_day_to_apply_formatted": "26 Feb 2024",
+        "tender_date_formatted": "27 Feb 2024",
+        "issue_date_formatted": "01 Mar 2024",
+        "maturity_date_formatted": "01 Mar 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24030V&issue_date=2024-03-01",
+        "savings_bond_code": "SBMAR24",
+        "last_updated_at": "2024-02-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX24040Z",
@@ -1649,7 +2771,18 @@
         "tender_date": "2024-03-26",
         "issue_date": "2024-04-01",
         "flag": "Y",
-        "maturity_date": "2034-04-01"
+        "maturity_date": "2034-04-01",
+        "ann_date_formatted": "01 Mar 2024",
+        "last_day_to_apply_formatted": "25 Mar 2024",
+        "tender_date_formatted": "26 Mar 2024",
+        "issue_date_formatted": "01 Apr 2024",
+        "maturity_date_formatted": "01 Apr 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24040Z&issue_date=2024-04-01",
+        "savings_bond_code": "SBAPR24",
+        "last_updated_at": "2024-03-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX24050X",
@@ -1665,7 +2798,18 @@
         "tender_date": "2024-04-26",
         "issue_date": "2024-05-02",
         "flag": "Y",
-        "maturity_date": "2034-05-01"
+        "maturity_date": "2034-05-01",
+        "ann_date_formatted": "01 Apr 2024",
+        "last_day_to_apply_formatted": "25 Apr 2024",
+        "tender_date_formatted": "26 Apr 2024",
+        "issue_date_formatted": "02 May 2024",
+        "maturity_date_formatted": "01 May 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24050X&issue_date=2024-05-02",
+        "savings_bond_code": "SBMAY24",
+        "last_updated_at": "2024-04-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX24060A",
@@ -1681,7 +2825,18 @@
         "tender_date": "2024-05-29",
         "issue_date": "2024-06-03",
         "flag": "Y",
-        "maturity_date": "2034-06-01"
+        "maturity_date": "2034-06-01",
+        "ann_date_formatted": "02 May 2024",
+        "last_day_to_apply_formatted": "28 May 2024",
+        "tender_date_formatted": "29 May 2024",
+        "issue_date_formatted": "03 Jun 2024",
+        "maturity_date_formatted": "01 Jun 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24060A&issue_date=2024-06-03",
+        "savings_bond_code": "SBJUN24",
+        "last_updated_at": "2024-05-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX24070S",
@@ -1697,7 +2852,18 @@
         "tender_date": "2024-06-26",
         "issue_date": "2024-07-01",
         "flag": "Y",
-        "maturity_date": "2034-07-01"
+        "maturity_date": "2034-07-01",
+        "ann_date_formatted": "03 Jun 2024",
+        "last_day_to_apply_formatted": "25 Jun 2024",
+        "tender_date_formatted": "26 Jun 2024",
+        "issue_date_formatted": "01 Jul 2024",
+        "maturity_date_formatted": "01 Jul 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24070S&issue_date=2024-07-01",
+        "savings_bond_code": "SBJUL24",
+        "last_updated_at": "2024-06-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX24080W",
@@ -1713,7 +2879,18 @@
         "tender_date": "2024-07-29",
         "issue_date": "2024-08-01",
         "flag": "Y",
-        "maturity_date": "2034-08-01"
+        "maturity_date": "2034-08-01",
+        "ann_date_formatted": "01 Jul 2024",
+        "last_day_to_apply_formatted": "26 Jul 2024",
+        "tender_date_formatted": "29 Jul 2024",
+        "issue_date_formatted": "01 Aug 2024",
+        "maturity_date_formatted": "01 Aug 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24080W&issue_date=2024-08-01",
+        "savings_bond_code": "SBAUG24",
+        "last_updated_at": "2024-07-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX24090E",
@@ -1729,7 +2906,18 @@
         "tender_date": "2024-08-28",
         "issue_date": "2024-09-02",
         "flag": "Y",
-        "maturity_date": "2034-09-01"
+        "maturity_date": "2034-09-01",
+        "ann_date_formatted": "01 Aug 2024",
+        "last_day_to_apply_formatted": "27 Aug 2024",
+        "tender_date_formatted": "28 Aug 2024",
+        "issue_date_formatted": "02 Sep 2024",
+        "maturity_date_formatted": "01 Sep 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24090E&issue_date=2024-09-02",
+        "savings_bond_code": "SBSEP24",
+        "last_updated_at": "2024-08-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX24100H",
@@ -1745,7 +2933,18 @@
         "tender_date": "2024-09-26",
         "issue_date": "2024-10-01",
         "flag": "Y",
-        "maturity_date": "2034-10-01"
+        "maturity_date": "2034-10-01",
+        "ann_date_formatted": "02 Sep 2024",
+        "last_day_to_apply_formatted": "25 Sep 2024",
+        "tender_date_formatted": "26 Sep 2024",
+        "issue_date_formatted": "01 Oct 2024",
+        "maturity_date_formatted": "01 Oct 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24100H&issue_date=2024-10-01",
+        "savings_bond_code": "SBOCT24",
+        "last_updated_at": "2024-09-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX24110N",
@@ -1761,7 +2960,18 @@
         "tender_date": "2024-10-28",
         "issue_date": "2024-11-01",
         "flag": "Y",
-        "maturity_date": "2034-11-01"
+        "maturity_date": "2034-11-01",
+        "ann_date_formatted": "01 Oct 2024",
+        "last_day_to_apply_formatted": "25 Oct 2024",
+        "tender_date_formatted": "28 Oct 2024",
+        "issue_date_formatted": "01 Nov 2024",
+        "maturity_date_formatted": "01 Nov 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24110N&issue_date=2024-11-01",
+        "savings_bond_code": "SBNOV24",
+        "last_updated_at": "2024-10-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX24120F",
@@ -1777,7 +2987,18 @@
         "tender_date": "2024-11-27",
         "issue_date": "2024-12-02",
         "flag": "Y",
-        "maturity_date": "2034-12-01"
+        "maturity_date": "2034-12-01",
+        "ann_date_formatted": "01 Nov 2024",
+        "last_day_to_apply_formatted": "26 Nov 2024",
+        "tender_date_formatted": "27 Nov 2024",
+        "issue_date_formatted": "02 Dec 2024",
+        "maturity_date_formatted": "01 Dec 2034",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX24120F&issue_date=2024-12-02",
+        "savings_bond_code": "SBDEC24",
+        "last_updated_at": "2024-11-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX25010E",
@@ -1793,7 +3014,18 @@
         "tender_date": "2024-12-27",
         "issue_date": "2025-01-02",
         "flag": "Y",
-        "maturity_date": "2035-01-01"
+        "maturity_date": "2035-01-01",
+        "ann_date_formatted": "02 Dec 2024",
+        "last_day_to_apply_formatted": "26 Dec 2024",
+        "tender_date_formatted": "27 Dec 2024",
+        "issue_date_formatted": "02 Jan 2025",
+        "maturity_date_formatted": "01 Jan 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25010E&issue_date=2025-01-02",
+        "savings_bond_code": "SBJAN25",
+        "last_updated_at": "2024-12-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX25020H",
@@ -1809,7 +3041,18 @@
         "tender_date": "2025-01-27",
         "issue_date": "2025-02-03",
         "flag": "Y",
-        "maturity_date": "2035-02-01"
+        "maturity_date": "2035-02-01",
+        "ann_date_formatted": "02 Jan 2025",
+        "last_day_to_apply_formatted": "24 Jan 2025",
+        "tender_date_formatted": "27 Jan 2025",
+        "issue_date_formatted": "03 Feb 2025",
+        "maturity_date_formatted": "01 Feb 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25020H&issue_date=2025-02-03",
+        "savings_bond_code": "SBFEB25",
+        "last_updated_at": "2025-01-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX25030N",
@@ -1825,7 +3068,18 @@
         "tender_date": "2025-02-26",
         "issue_date": "2025-03-03",
         "flag": "Y",
-        "maturity_date": "2035-03-01"
+        "maturity_date": "2035-03-01",
+        "ann_date_formatted": "03 Feb 2025",
+        "last_day_to_apply_formatted": "25 Feb 2025",
+        "tender_date_formatted": "26 Feb 2025",
+        "issue_date_formatted": "03 Mar 2025",
+        "maturity_date_formatted": "01 Mar 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25030N&issue_date=2025-03-03",
+        "savings_bond_code": "SBMAR25",
+        "last_updated_at": "2025-02-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX25040F",
@@ -1841,7 +3095,18 @@
         "tender_date": "2025-03-26",
         "issue_date": "2025-04-01",
         "flag": "Y",
-        "maturity_date": "2035-04-01"
+        "maturity_date": "2035-04-01",
+        "ann_date_formatted": "03 Mar 2025",
+        "last_day_to_apply_formatted": "25 Mar 2025",
+        "tender_date_formatted": "26 Mar 2025",
+        "issue_date_formatted": "01 Apr 2025",
+        "maturity_date_formatted": "01 Apr 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25040F&issue_date=2025-04-01",
+        "savings_bond_code": "SBAPR25",
+        "last_updated_at": "2025-03-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX25050T",
@@ -1857,7 +3122,18 @@
         "tender_date": "2025-04-28",
         "issue_date": "2025-05-02",
         "flag": "Y",
-        "maturity_date": "2035-05-01"
+        "maturity_date": "2035-05-01",
+        "ann_date_formatted": "01 Apr 2025",
+        "last_day_to_apply_formatted": "25 Apr 2025",
+        "tender_date_formatted": "28 Apr 2025",
+        "issue_date_formatted": "02 May 2025",
+        "maturity_date_formatted": "01 May 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25050T&issue_date=2025-05-02",
+        "savings_bond_code": "SBMAY25",
+        "last_updated_at": "2025-04-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX25060V",
@@ -1873,7 +3149,18 @@
         "tender_date": "2025-05-28",
         "issue_date": "2025-06-02",
         "flag": "Y",
-        "maturity_date": "2035-06-01"
+        "maturity_date": "2035-06-01",
+        "ann_date_formatted": "02 May 2025",
+        "last_day_to_apply_formatted": "27 May 2025",
+        "tender_date_formatted": "28 May 2025",
+        "issue_date_formatted": "02 Jun 2025",
+        "maturity_date_formatted": "01 Jun 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25060V&issue_date=2025-06-02",
+        "savings_bond_code": "SBJUN25",
+        "last_updated_at": "2025-05-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX25070Z",
@@ -1889,7 +3176,18 @@
         "tender_date": "2025-06-26",
         "issue_date": "2025-07-01",
         "flag": "Y",
-        "maturity_date": "2035-07-01"
+        "maturity_date": "2035-07-01",
+        "ann_date_formatted": "02 Jun 2025",
+        "last_day_to_apply_formatted": "25 Jun 2025",
+        "tender_date_formatted": "26 Jun 2025",
+        "issue_date_formatted": "01 Jul 2025",
+        "maturity_date_formatted": "01 Jul 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25070Z&issue_date=2025-07-01",
+        "savings_bond_code": "SBJUL25",
+        "last_updated_at": "2025-06-02T00:00:00.000Z"
       },
       {
         "issue_code": "GX25080X",
@@ -1905,7 +3203,18 @@
         "tender_date": "2025-07-29",
         "issue_date": "2025-08-01",
         "flag": "Y",
-        "maturity_date": "2035-08-01"
+        "maturity_date": "2035-08-01",
+        "ann_date_formatted": "01 Jul 2025",
+        "last_day_to_apply_formatted": "28 Jul 2025",
+        "tender_date_formatted": "29 Jul 2025",
+        "issue_date_formatted": "01 Aug 2025",
+        "maturity_date_formatted": "01 Aug 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25080X&issue_date=2025-08-01",
+        "savings_bond_code": "SBAUG25",
+        "last_updated_at": "2025-07-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX25090A",
@@ -1921,7 +3230,18 @@
         "tender_date": "2025-08-27",
         "issue_date": "2025-09-01",
         "flag": "Y",
-        "maturity_date": "2035-09-01"
+        "maturity_date": "2035-09-01",
+        "ann_date_formatted": "01 Aug 2025",
+        "last_day_to_apply_formatted": "26 Aug 2025",
+        "tender_date_formatted": "27 Aug 2025",
+        "issue_date_formatted": "01 Sep 2025",
+        "maturity_date_formatted": "01 Sep 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25090A&issue_date=2025-09-01",
+        "savings_bond_code": "SBSEP25",
+        "last_updated_at": "2025-08-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX25100S",
@@ -1937,7 +3257,18 @@
         "tender_date": "2025-09-26",
         "issue_date": "2025-10-01",
         "flag": "Y",
-        "maturity_date": "2035-10-01"
+        "maturity_date": "2035-10-01",
+        "ann_date_formatted": "01 Sep 2025",
+        "last_day_to_apply_formatted": "25 Sep 2025",
+        "tender_date_formatted": "26 Sep 2025",
+        "issue_date_formatted": "01 Oct 2025",
+        "maturity_date_formatted": "01 Oct 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25100S&issue_date=2025-10-01",
+        "savings_bond_code": "SBOCT25",
+        "last_updated_at": "2025-09-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX25110W",
@@ -1953,7 +3284,18 @@
         "tender_date": "2025-10-29",
         "issue_date": "2025-11-03",
         "flag": "Y",
-        "maturity_date": "2035-11-01"
+        "maturity_date": "2035-11-01",
+        "ann_date_formatted": "01 Oct 2025",
+        "last_day_to_apply_formatted": "28 Oct 2025",
+        "tender_date_formatted": "29 Oct 2025",
+        "issue_date_formatted": "03 Nov 2025",
+        "maturity_date_formatted": "01 Nov 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25110W&issue_date=2025-11-03",
+        "savings_bond_code": "SBNOV25",
+        "last_updated_at": "2025-10-01T00:00:00.000Z"
       },
       {
         "issue_code": "GX25120E",
@@ -1969,7 +3311,18 @@
         "tender_date": "2025-11-26",
         "issue_date": "2025-12-01",
         "flag": "Y",
-        "maturity_date": "2035-12-01"
+        "maturity_date": "2035-12-01",
+        "ann_date_formatted": "03 Nov 2025",
+        "last_day_to_apply_formatted": "25 Nov 2025",
+        "tender_date_formatted": "26 Nov 2025",
+        "issue_date_formatted": "01 Dec 2025",
+        "maturity_date_formatted": "01 Dec 2035",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX25120E&issue_date=2025-12-01",
+        "savings_bond_code": "SBDEC25",
+        "last_updated_at": "2025-11-03T00:00:00.000Z"
       },
       {
         "issue_code": "GX26010A",
@@ -1985,7 +3338,18 @@
         "tender_date": "2025-12-29",
         "issue_date": "2026-01-02",
         "flag": "Y",
-        "maturity_date": null
+        "maturity_date": "2036-01-01",
+        "ann_date_formatted": "01 Dec 2025",
+        "last_day_to_apply_formatted": "26 Dec 2025",
+        "tender_date_formatted": "29 Dec 2025",
+        "issue_date_formatted": "02 Jan 2026",
+        "maturity_date_formatted": "01 Jan 2036",
+        "auction_tenor_formatted": "10-Year",
+        "agency_custom_categories": "Bonds & Bills,Singapore Savings Bond",
+        "new_reopen_formatted": "New",
+        "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/issuance-singapore-savings-bond?issue_code=GX26010A&issue_date=2026-01-02",
+        "savings_bond_code": "SBJAN26",
+        "last_updated_at": "2025-12-01T00:00:00.000Z"
       }
     ]
   }
