@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "total": 1,
+    "records": [
+      {
+        "issue_code": "GX26020S",
+        "year1_coupon": 1.35,
+        "year1_return": 1.35,
+        "year2_coupon": 1.59,
+        "year2_return": 1.47,
+        "year3_coupon": 1.86,
+        "year3_return": 1.6,
+        "year4_coupon": 2.14,
+        "year4_return": 1.73,
+        "year5_coupon": 2.34,
+        "year5_return": 1.85,
+        "year6_coupon": 2.45,
+        "year6_return": 1.94,
+        "year7_coupon": 2.56,
+        "year7_return": 2.02,
+        "year8_coupon": 2.67,
+        "year8_return": 2.1,
+        "year9_coupon": 2.82,
+        "year9_return": 2.17,
+        "year10_coupon": 3.03,
+        "year10_return": 2.25
+      }
+    ]
+  }
+}
